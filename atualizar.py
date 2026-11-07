@@ -3,7 +3,7 @@ import json, os, re, sys, time, html, unicodedata, urllib.request, urllib.error
 from datetime import datetime, timezone, timedelta
 import feedparser
 
-MODELO = "gemini-2.5-flash"      # se o Google trocar o nome do modelo, altere aqui
+MODELO = "gemini-3.8-flash"      # se o Google trocar o nome do modelo, altere aqui
 MAX_POR_FONTE = 10               # quantos itens mais recentes olhar em cada fonte
 TAMANHO_LOTE = 8                 # itens por chamada de IA
 DIAS_GUARDAR = 7
@@ -136,8 +136,10 @@ def main():
     for nome, url in fontes:
         try:
             feed = feedparser.parse(url, agent=UA)
+            if not feed.entries and "reddit.com" in url:
+                feed = feedparser.parse(url.replace("www.reddit.com", "old.reddit.com"), agent=UA)
             if not feed.entries:
-                print(f"AVISO: nenhum item em {nome} ({url})")
+                print(f"AVISO: nenhum item em {nome} (status {feed.get('status')})")
             for e in feed.entries[:MAX_POR_FONTE]:
                 link = e.get("link")
                 if not link or link in conhecidos:
