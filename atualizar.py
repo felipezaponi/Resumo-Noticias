@@ -5,7 +5,7 @@ import feedparser
 
 MODELO = "gemini-3.8-flash"      # se o Google trocar o nome do modelo, altere aqui
 MAX_POR_FONTE = 10               # quantos itens mais recentes olhar em cada fonte
-TAMANHO_LOTE = 8                 # itens por chamada de IA
+TAMANHO_LOTE = 4                 # itens por chamada de IA
 DIAS_GUARDAR = 7
 MAX_ITENS = 300
 UA = "Mozilla/5.0 (compatible; MeuResumoDeNoticias/1.0)"
@@ -72,10 +72,10 @@ def gemini(prompt):
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
     }).encode()
-    for tentativa in range(4):
+    for tentativa in range(3):
         try:
             req = urllib.request.Request(url, corpo, {"Content-Type": "application/json", "x-goog-api-key": API_KEY})
-            with urllib.request.urlopen(req, timeout=90) as r:
+            with urllib.request.urlopen(req, timeout=60) as r:
                 dados = json.load(r)
             return json.loads(dados["candidates"][0]["content"]["parts"][0]["text"])
         except urllib.error.HTTPError as err:
