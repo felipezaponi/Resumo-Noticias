@@ -1,0 +1,13 @@
+# BLACKLIST: o que você NÃO quer ver.
+# Uma palavra ou assunto por linha. Não importa maiúscula/minúscula nem acento.
+# Duas proteções: (1) filtro por palavra, antes da IA; (2) a IA também bloqueia
+# qualquer coisa que se relacione ao assunto, mesmo sem usar a palavra exata.
+
+gta 6
+gta6
+gta vi
+jason
+lucia
+endgame
+spoiler
+rockstar

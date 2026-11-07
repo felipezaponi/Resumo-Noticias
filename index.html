@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meu resumo de notícias</title>
+<style>
+:root{--bg:#f4f5f7;--card:#fff;--tx:#14181f;--mut:#67707e;--bd:#e1e4e9;--ac:#1d6fd6}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1318;--card:#171c23;--tx:#e8ebf0;--mut:#8a94a3;--bd:#262d37;--ac:#5aa2f5}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:620px;margin:0 auto;padding:12px}
+header{position:sticky;top:0;background:var(--bg);padding:10px 0;z-index:2;display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+h1{font-size:1.15rem;margin:0}
+select{background:var(--card);color:var(--tx);border:1px solid var(--bd);border-radius:8px;padding:6px 8px;font:inherit;font-size:.9rem;max-width:100%}
+.upd{color:var(--mut);font-size:.8rem;width:100%}
+article{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:14px;margin-bottom:12px;display:flex;gap:12px}
+.av{flex:none;width:42px;height:42px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:700;font-size:.85rem}
+.body{min-width:0;flex:1}
+.top{display:flex;flex-wrap:wrap;gap:2px 8px;align-items:baseline}
+.src{font-weight:700}
+.meta{color:var(--mut);font-size:.85rem}
+h2{font-size:1rem;margin:6px 0 4px}
+p{margin:0 0 10px}
+img{width:100%;max-height:340px;object-fit:cover;border-radius:10px;border:1px solid var(--bd);margin-bottom:10px;background:var(--bd)}
+a.lnk{color:var(--ac);font-weight:600;text-decoration:none}
+a.lnk:hover,a.lnk:focus-visible{text-decoration:underline}
+.vazio{color:var(--mut);text-align:center;padding:40px 0}
+</style>
+</head>
+<body>
+<main>
+<header>
+  <h1>Meu resumo de notícias</h1>
+  <select id="filtro" aria-label="Filtrar por fonte"><option value="">Todas as fontes</option></select>
+  <div class="upd" id="upd"></div>
+</header>
+<div id="lista"><div class="vazio">Carregando...</div></div>
+</main>
+<script>
+const fmt = new Intl.DateTimeFormat("pt-BR",{timeZone:"America/Sao_Paulo",day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+function cor(s){let h=0;for(const c of s)h=(h*31+c.charCodeAt(0))%360;return `hsl(${h} 45% 40%)`}
+function sigla(s){return s.startsWith("r/")?s.slice(2,4).toUpperCase():s.replace(/[^\p{L}\p{N} ]/gu,"").trim().slice(0,2).toUpperCase()}
+function rel(d){const m=Math.round((Date.now()-new Date(d))/60000);if(m<60)return `há ${Math.max(m,1)} min`;if(m<1440)return `há ${Math.floor(m/60)} h`;return `há ${Math.floor(m/1440)} d`}
+function el(t,c,x){const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+let dados={itens:[]};
+function desenhar(){
+  const f=document.getElementById("filtro").value, box=document.getElementById("lista");
+  box.replaceChildren();
+  const its=dados.itens.filter(i=>!f||i.fonte===f);
+  if(!its.length){box.append(el("div","vazio","Nenhuma notícia ainda. Rode a atualização no GitHub (aba Actions)."));return}
+  for(const i of its){
+    const a=el("article"), av=el("div","av",sigla(i.fonte)); av.style.background=cor(i.fonte);
+    const b=el("div","body"), top=el("div","top");
+    top.append(el("span","src",i.fonte),el("span","meta",`${i.fonte.startsWith("r/")?"Reddit":"Site"} · ${fmt.format(new Date(i.data))} (${rel(i.data)})`));
+    b.append(top);
+    if(i.titulo)b.append(el("h2",null,i.titulo));
+    b.append(el("p",null,i.resumo));
+    if(i.imagem){const im=el("img");im.src=i.imagem;im.alt="";im.loading="lazy";im.referrerPolicy="no-referrer";im.onerror=()=>im.remove();b.append(im)}
+    const l=el("a","lnk","Ver original");l.href=i.link;l.target="_blank";l.rel="noopener";
+    b.append(l);a.append(av,b);box.append(a);
+  }
+}
+fetch("noticias.json?"+Date.now()).then(r=>r.json()).then(d=>{
+  dados=d;
+  const s=document.getElementById("filtro");
+  for(const n of d.fontes||[]){const o=el("option",null,n);o.value=n;s.append(o)}
+  s.onchange=desenhar;
+  if(d.atualizado_em)document.getElementById("upd").textContent="Atualizado em "+fmt.format(new Date(d.atualizado_em));
+  desenhar();
+}).catch(()=>{document.getElementById("lista").replaceChildren(el("div","vazio","Não consegui carregar as notícias. Abra pelo endereço do GitHub Pages, não pelo arquivo no computador."))});
+</script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+# FONTES DE NOTÍCIAS
+# Para ADICIONAR: escreva uma nova linha. Para REMOVER: apague a linha (ou coloque # no começo).
+#
+# Subreddit: basta escrever r/nome
+# Site:      Nome que vai aparecer | endereço do feed RSS
+
+# ---------- Sites ----------
+g1 · Geral | https://g1.globo.com/rss/g1/
+g1 · Campinas | https://g1.globo.com/rss/g1/sp/campinas-regiao/
+g1 · Tecnologia | https://g1.globo.com/rss/g1/tecnologia/
+g1 · Economia | https://g1.globo.com/rss/g1/economia/
+
+# ---------- Subreddits ----------
+r/campinas
+r/F1Technical
+r/farialimabets
+r/formula1
+r/formuladank
+r/GlobalOffensive
+r/GTA6
+r/PathOfExile2
