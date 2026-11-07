@@ -1,1 +1,21 @@
-{"atualizado_em": null, "fontes": [], "itens": [], "bloqueados": []}
+{
+ "atualizado_em": "2026-11-07T20:48:07.229703+00:00",
+ "fontes": [
+  "g1 · Geral",
+  "g1 · Campinas",
+  "g1 · Tecnologia",
+  "g1 · Economia",
+  "r/campinas",
+  "r/F1Technical",
+  "r/farialimabets",
+  "r/formula1",
+  "r/formuladank",
+  "r/GlobalOffensive",
+  "r/GTA6",
+  "r/PathOfExile2"
+ ],
+ "itens": [],
+ "bloqueados": [
+  "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml"
+ ]
+}
