@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-07T20:48:07.229703+00:00",
+ "atualizado_em": "2026-11-07T21:22:21.921184+00:00",
  "fontes": [
   "g1 · Geral",
   "g1 · Campinas",
@@ -14,7 +14,200 @@
   "r/GTA6",
   "r/PathOfExile2"
  ],
- "itens": [],
+ "itens": [
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/07/video-briga-entre-pais-apos-caso-de-bullying-termina-com-homem-morto-e-tres-feridos-em-mg.ghtml",
+   "titulo": "VÍDEO: Briga entre pais após caso de bullying termina com homem morto e três feridos em MG",
+   "resumo": "Uma briga entre famílias iniciada por desavenças ligadas a bullying escolar terminou com um homem morto e três feridos a tiros na manhã de sábado, em Lagoa Grande, Minas Gerais. A confusão começou quando a mãe do jovem acusado de bullying foi tirar satisfações com os parentes do outro adolescente. A discussão evoluiu para agressões físicas, motivando a chegada do namorado da mulher e de outro indivíduo com uma marreta. Diante do confronto, o pai de um dos jovens efetuou disparos e fugiu logo em seguida.",
+   "imagem": "https://s2-g1.glbimg.com/JvP9ZaH7jImTUWEIJ1lMmFa7FLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/h/1mHtI5SyefDmd7YRdU2A/design-sem-nome-9-.png",
+   "data": "2026-11-07T20:59:36+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/07/acidente-entre-dois-carros-deixa-um-morto-e-tres-feridos-em-saquarema.ghtml",
+   "titulo": "Acidente entre dois carros deixa um morto e três feridos em Saquarema",
+   "resumo": "Uma colisão frontal entre dois carros provocou a morte de um homem de 30 anos e deixou quatro feridos na rodovia RJ-106, altura de Bonsucesso, em Saquarema, Região dos Lagos. O acidente ocorreu por volta das 5h deste sábado, após um dos automóveis tentar ultrapassar um caminhão e atingir o veículo que vinha no sentido contrário. Entre as vítimas feridas estão duas crianças de 6 e 8 anos, sendo que uma delas sofreu fratura no fêmur. Um homem também foi socorrido, enquanto outro motorista saiu ileso.",
+   "imagem": "https://s2-g1.glbimg.com/9VNildvSUHTrUnYnvE66uJjw8DE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/4/nHxgwOSQAQJGwQWSieNA/batida.jpg",
+   "data": "2026-11-07T20:56:38+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/07/agradeco-a-deus-que-estou-vivo-diz-morador-ferido-apos-passagem-de-tornado-em-cidade-no-rs.ghtml",
+   "titulo": "'Agradeço a Deus que estou vivo', diz morador ferido após passagem de tornado em cidade no RS",
+   "resumo": "Um tornado atingiu o município de Santo Augusto, no Noroeste do Rio Grande do Sul, na madrugada de sábado, deixando um morador ferido e destelhando cerca de cem residências. A vítima, um autônomo, precisou levar sete pontos na cabeça após o vento quebrar uma janela que caiu sobre ele enquanto dormia. A Defesa Civil estadual confirmou a ocorrência do fenômeno, ressaltando que este foi o segundo tornado registrado no Rio Grande do Sul em uma mesma semana, além de episódios no Paraná e Santa Catarina.",
+   "imagem": "https://s2-g1.glbimg.com/4Jd_Fs89iQoIor8DIHkFJTBXmis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/A/BdDmhfSri2JDA9KxselA/g1-2026-11-07t174648.056.jpg",
+   "data": "2026-11-07T20:55:17+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/11/07/falha-na-linha-11-coral-faz-passageiros-desembarcarem-nos-trilhos-em-ferraz.ghtml",
+   "titulo": "Falha na Linha 11-Coral faz passageiros desembarcarem nos trilhos em Ferraz",
+   "resumo": "Uma falha na rede aérea da Linha 11-Coral da Companhia Paulista de Trens Metropolitanos (CPTM) forçou passageiros a desembarcarem sobre os trilhos na tarde deste sábado, próximo à Estação Antonio Gianetti Neto, em Ferraz de Vasconcelos. Equipes de segurança foram acionadas para retirar os usuários da via. Devido ao problema, os trens precisaram operar em via única entre as estações Guaianases e Ferraz de Vasconcelos, resultando em menor velocidade de circulação e ampliação dos intervalos de viagem.",
+   "imagem": "https://s2-g1.glbimg.com/ug99cPSJ459AlWuZtAtAhNc8fCs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/i/BgxkN0SU6g7w38AIde4Q/trem-intercidades.jpg",
+   "data": "2026-11-07T20:54:33+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/07/homem-e-preso-e-adolescente-apreendido-apos-gcm-localizar-casa-bomba-em-boituva.ghtml",
+   "titulo": "Homem é preso e adolescente é apreendido após GCM localizar ‘casa bomba’ em Boituva",
+   "resumo": "A Guarda Civil Municipal localizou uma refinaria doméstica conhecida como \"casa bomba\" em um conjunto habitacional de Boituva, no interior de São Paulo. A ação culminou na prisão de um homem e na apreensão de um adolescente após uma perseguição iniciada durante patrulhamento ostensivo. No apartamento em que a dupla se escondeu, os agentes apreenderam tabletes de maconha, crack, munições calibre .38, carabina de pressão, medicamentos, cadernos de contabilidade e utensílios voltados ao preparo de drogas.",
+   "imagem": "https://s2-g1.glbimg.com/DOxScqPUwZjrSghCqO5-K3kuCoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/P/dk4wtyQwmI6ki7OMcTnw/whatsapp-image-2026-11-07-at-17.35.36.jpg",
+   "data": "2026-11-07T20:47:03+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/07/rajadas-de-vento-de-ate-96-kmh-derrubam-arvores-e-danificam-terminal-de-onibus-em-piracicaba.ghtml",
+   "titulo": "Rajadas de vento de até 96 km/h derrubam árvores e danificam terminal de ônibus em Piracicaba",
+   "resumo": "Fortes chuvas acompanhadas de rajadas de vento de até 96,1 km/h atingiram a cidade de Piracicaba, no interior de São Paulo, causando estragos em diversos bairros na tarde de sábado. O temporal provocou a queda de ao menos dezenove árvores, queda de energia elétrica e danificou a cobertura do Terminal de Ônibus Urbano da Pauliceia, que teve áreas isoladas mas manteve a operação. Equipes do Comitê de Gestão de Crise Climática, Bombeiros e concessionária atuam na desobstrução e reparo das vias.",
+   "imagem": "https://s2-g1.glbimg.com/Twwn-neqox_FLhhB7SytelcPIGE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/O/OjDpw8S9Afb3H7gLHQYQ/design-sem-nome-30-.jpg",
+   "data": "2026-11-07T20:46:21+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/07/mulher-e-presa-apos-ser-flagrada-com-cocaina-em-carro-e-diz-que-venderia-droga-em-festa-em-mg.ghtml",
+   "titulo": "Mulher é presa após ser flagrada com cocaína em carro e diz que venderia droga em festa em MG",
+   "resumo": "Uma mulher de 32 anos foi presa em flagrante pela Polícia Militar em Goiabeira, no Leste de Minas Gerais, sob acusação de tráfico de drogas. A abordagem aconteceu após denúncias indicarem que um carro estaria transportando entorpecentes vindos de Cuparaque. Durante a revista, os policiais encontraram dez pinos de cocaína na bolsa da passageira. A suspeita confessou aos militares que pretendia comercializar o material durante uma festa de aniversário na zona rural e foi conduzida à delegacia regional.",
+   "imagem": "https://s2-g1.glbimg.com/M1quVUX7Fc28hozf9YRhU6lhX5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Z/kpRIufTemuXXyJdcRQqw/cocaina-1-.jpeg",
+   "data": "2026-11-07T20:40:53+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/07/galho-despenca-sobre-carro-na-rj-116-e-atinge-casal-que-seguia-para-nova-friburgo.ghtml",
+   "titulo": "Galho despenca sobre carro na RJ-116 e atinge casal que seguia para Nova Friburgo",
+   "resumo": "Um galho de árvore de grande porte caiu sobre um carro na rodovia RJ-116 durante a noite de sexta-feira, na subida da serra em direção a Nova Friburgo, no Rio de Janeiro. O impacto danificou o para-brisa e afundou o teto do veículo, mas o casal que ocupava o automóvel escapou sem ferimentos. Um policial militar que passava pelo trecho prestou assistência imediata. Outros motoristas ajudaram a retirar os galhos e detritos da pista, garantindo a fluidez da rodovia até a chegada da concessionária.",
+   "imagem": "https://s2-g1.glbimg.com/qaL0vTMQ_yOh3YmbtzfkyXMuW1k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/v/rGY7BvQH6fCHw93hyeaQ/friburgo1.jpg",
+   "data": "2026-11-07T20:37:00+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/07/helicoptero-que-caiu-em-passos-mg-levava-convidados-de-casamento.ghtml",
+   "titulo": "Helicóptero que caiu em MG levava convidados para casamento em fazenda; cinco ficaram feridos",
+   "resumo": "Um helicóptero que transportava convidados para um casamento caiu em uma fazenda em Passos, Minas Gerais, na tarde deste sábado. A aeronave partiu de Belo Horizonte e sofreu o acidente durante um voo de reconhecimento para avaliar o pouso, caindo em um milharal a cerca de 20 metros do solo. Os cinco ocupantes, incluindo o piloto e quatro convidados, foram resgatados conscientes com lesões nas extremidades e levados para a Santa Casa do município.",
+   "imagem": "https://s2-g1.glbimg.com/EGIwdhXuetlzNKsnO4wXy9fVw-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/7/oViBlzTVigUMQQOpnNEA/corpo-de-bombeiros.png",
+   "data": "2026-11-07T20:30:51+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/07/bebe-de-2-meses-e-socorrida-apos-se-engasgar-com-leite-materno-em-mt.ghtml",
+   "titulo": "Bebê de 2 meses é socorrida após se engasgar com leite materno em MT",
+   "resumo": "Uma bebê de dois meses foi salva pelo Corpo de Bombeiros após se engasgar com leite materno durante a amamentação em Lucas do Rio Verde, Mato Grosso. Os familiares levaram a menina até a sede da corporação, onde os militares executaram manobras de desengasgo conhecidas como técnica de tapotagem. Com as vias respiratórias desobstruídas e a respiração restabelecida, a criança foi encaminhada ao Hospital São Lucas para receber atendimento médico.",
+   "imagem": "https://s2-g1.glbimg.com/y99ZLtmByHom3KqXp0gzfIzVKm4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/g/C3mOEXQUiZQ2zp2fCYyw/foto-g1-2026-11-07t160509.314.png",
+   "data": "2026-11-07T20:30:41+00:00"
+  },
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/coberto-por-nuvem-prateleira-viracopos-recebe-voos-de-outros-aeroportos-por-conta-de-temporal.ghtml",
+   "titulo": "Coberto por 'nuvem prateleira', Viracopos recebe voos de outros aeroportos por conta de temporal",
+   "resumo": "A passagem de uma frente fria gerou uma 'nuvem prateleira' sobre o Aeroporto de Viracopos, em Campinas, neste sábado. O terminal precisou operar por instrumentos durante a tempestade e recebeu pelo menos oito voos desviados de outras cidades, a maioria com destino original para Congonhas. A forte chuva na região também causou rajadas de vento de até 70 km/h, queda de árvores e diversos pontos de alagamento no município paulista.",
+   "imagem": "https://s2-g1.glbimg.com/2XnILB1aZZh_1mFkilq3y06mjGk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/M/FAAf33TL2eHFFQyg6IdA/design-sem-nome-2026-11-07t165909.634.jpg",
+   "data": "2026-11-07T20:02:29+00:00"
+  },
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/incendio-atinge-casa-no-jardim-itatiaia-em-campinas.ghtml",
+   "titulo": "Incêndio atinge casa no Jardim Itatiaia em Campinas",
+   "resumo": "Um incêndio atingiu uma casa localizada na Rua Serra do Pilar, no bairro Jardim Itatiaia, em Campinas, na tarde deste sábado. O Corpo de Bombeiros mobilizou quatro viaturas para combater as chamas intensas, que provocaram uma densa coluna de fumaça preta no local. Até o momento da apuração dos fatos, não havia registro de vítimas decorrentes do ocorrido.",
+   "imagem": "https://s2-g1.glbimg.com/iWDgNnAsE04Jo3mEkqazf0iz09Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/K/6aHcAgQuKoUP4lW8mn1w/design-sem-nome-26-.jpg",
+   "data": "2026-11-07T19:44:21+00:00"
+  },
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/temporal-provoca-pontos-de-alagamento-na-regiao-de-campinas.ghtml",
+   "titulo": "Temporal provoca pontos de alagamento e queda de árvores na região de Campinas",
+   "resumo": "Um forte temporal causou transtornos na região de Campinas neste sábado, provocando alagamentos em vias públicas e quedas de árvores em diversos bairros. Os ventos atingiram rajadas de até 70 km/h com acumulado de 21 mm de chuva no centro da cidade. Devido às condições climáticas adversas, a prefeitura cancelou a apresentação do espetáculo infantil 'TOP 10 da Galinha Pintadinha', que aconteceria em um teatro de arena ao ar livre.",
+   "imagem": "https://s2-g1.glbimg.com/hkcJEvGSgu_OSUNmxQDiTTQg5Uk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/lzTpOgT0S6AV8j3PUZAw/taquaral-av-dr-heitor-penteado-19991186792-1-.mp4-snapshot-00.03.082.jpg",
+   "data": "2026-11-07T18:32:23+00:00"
+  },
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/artesa-tem-whatsapp-clonado-apos-clicar-em-link-de-falso-convite-para-palestra.ghtml",
+   "titulo": "Artesã de Campinas tem WhatsApp clonado após clicar em falso convite para palestra; entenda novas regras contra golpes",
+   "resumo": "Uma artesã de Campinas perdeu o acesso ao seu aplicativo de mensagens após clicar em um link falso enviado por SMS com convite para uma palestra. Os golpistas usaram o perfil dela para pedir dinheiro a contatos, gerando um prejuízo de ao menos R$ 800. O caso coincide com a criação de novas regras pelo governo federal, que darão 90 dias para operadoras cadastrarem remetentes de SMS e bloquearem números suspeitos de aplicar golpes.",
+   "imagem": "https://s2-g1.glbimg.com/vMQHh4I9SUy24f494QgHhSbqwP8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/9/T/MzrGOqRACghj15vq9kNQ/5g-sao-paulo-foto-celso-tavares-g1-16-de-22-.jpg",
+   "data": "2026-11-07T16:16:40+00:00"
+  },
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/video-flagra-homens-saqueando-trem-em-movimento-em-campinas.ghtml",
+   "titulo": "Vídeo flagra homens saqueando trem em movimento em Campinas",
+   "resumo": "Dois homens foram gravados em vídeo saqueando um trem de carga em movimento na região do Techno Park, em Campinas. As imagens mostram um suspeito sobre um vagão carregando um saco enquanto o trem transitava. A concessionária Rumo registrou um boletim de ocorrência sobre o furto, ressaltou os graves riscos à vida que a prática oferece e declarou estar colaborando com as autoridades de segurança pública nas investigações.",
+   "imagem": "https://s2-g1.glbimg.com/fe0PqZZkYCetnTYmP_krHuXaGIg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/j/uAUZylQ4e76VTM5Fjs9A/design-sem-nome-7-.jpg",
+   "data": "2026-11-07T15:09:33+00:00"
+  },
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/11/07/motociclista-morre-apos-batida-entre-duas-motos-em-avenida-de-campinas.ghtml",
+   "titulo": "Motociclista morre após batida entre duas motos em avenida de Campinas",
+   "resumo": "Um motociclista de 53 anos faleceu na noite de sexta-feira na Avenida Marechal Rondon, em Campinas, após colidir com outra moto ao tentar desviar de um carro e se chocar contra uma árvore. Os outros dois ocupantes tiveram escoriações leves. Em outro acidente na manhã de sábado, no bairro Cambuí, um jovem de 23 anos ficou ferido após bater sua moto contra um carro que trafegava na contramão na Avenida José de Souza Campos.",
+   "imagem": "https://s2-g1.glbimg.com/e9q1iggEZiCumlqbV6R4vbm4S9I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/y/t/ij0ESTQ9SoaPIkohk8Yw/giroflex.jpeg",
+   "data": "2026-11-07T14:49:36+00:00"
+  },
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/07/aves-surpreendem-ao-recolher-folhas-secas-e-exibi-las-umas-as-outras-entenda-o-significado.ghtml",
+   "titulo": "Aves surpreendem ao recolher folhas secas e exibi-las umas às outras; entenda o significado",
+   "resumo": "No Pantanal, a bióloga Fernanda Brich dos Santos registrou um comportamento curioso de aves da espécie asa-de-telha-escuro: a coleta e exibição mútua de folhas secas, prática conhecida como leaf gathering. Diferente do que parecia à primeira vista, a movimentação aos pés de um ipê não tinha a finalidade de construir ninhos, mas sim de comunicação social entre os membros do grupo. O registro inédito para a observadora chamou a atenção pela repetição e pela intensidade da interação entre os indivíduos.",
+   "imagem": "https://s2-g1.glbimg.com/o8yJ5c0YZJ3eNskv7pZztAc5FbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/0/jJATEeSnyvtLHNoCT8gA/whatsapp-image-2026-10-19-at-10.52.07-1-.jpeg",
+   "data": "2026-11-07T11:24:53+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/07/chanceler-da-italia-e-alvo-de-hackers-e-tem-dados-pessoais-vazados.ghtml",
+   "titulo": "Chanceler da Itália é alvo de hackers e tem dados pessoais vazados",
+   "resumo": "O chanceler italiano Antonio Tajani relatou ter sido alvo de cibercriminosos que vazaram seus dados pessoais e de familiares na dark web para fins de intimidação e ameaça. A primeira-ministra Giorgia Meloni atribuiu a ação a hackers pró-Rússia, considerando a situação grave. Tajani destacou que as retaliações são motivadas pelo posicionamento da Itália em favor da soberania da Ucrânia no conflito contra a Rússia, mas garantiu que o governo italiano não cederá às pressões e intimidações digitais.",
+   "imagem": "https://s2-g1.glbimg.com/YHEh6pd9-brIPN7gOS67epVN7XI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/3/MpLwicQnCSmjKAqGyaqA/2026-10-23t142328z-1256623729-rc229oadouqn-rtrmadp-3-iran-crisis-turkey-italy.jpg",
+   "data": "2026-11-07T11:20:07+00:00"
+  },
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/07/esquema-agiotagem-envolvidos-movimentou-milhoes-apenas-emprestimos.ghtml",
+   "titulo": "Esquema de agiotagem com 41 envolvidos movimentou R$ 13 milhões apenas com empréstimos",
+   "resumo": "Uma investigação do Ministério Público de São Paulo desarticulou um esquema criminoso de agiotagem em Campinas que movimentou cerca de R$ 13 milhões em empréstimos e lucrou R$ 4,6 milhões, deixando ao menos 18 vítimas sem seus imóveis. Denominada Shylock, a operação envolveu 41 suspeitos, entre 11 apontados como líderes e três empresas usadas para cobranças. Foram cumpridos 11 mandados de prisão preventiva e 24 de busca para apurar crimes de extorsão, lavagem de dinheiro e organização criminosa.",
+   "imagem": "https://s2-g1.glbimg.com/luZjB4-VzPLU1WKBtYML2pM6obs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/k/dsgPn1SAuLjeF0vUH8hw/whatsapp-image-2026-11-06-at-06.48.48.jpeg",
+   "data": "2026-11-07T10:42:05+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/07/seis-meses-de-salario-macbook-e-bolsas-de-r-55-mil-como-e-o-pacote-de-demissao-da-canva.ghtml",
+   "titulo": "Seis meses de salário, MacBook e bolsas de R$ 55 mil: como é o pacote de demissão da Canva",
+   "resumo": "A plataforma australiana Canva anunciou um plano de reestruturação organizacional que atingirá 1.271 funcionários, correspondendo a cerca de 22% de seu quadro global. Diante dos desligamentos e mudanças de funções, a companhia anunciou um pacote de benefícios para os afetados que engloba ao menos seis meses de salário integral, um ano de plano de saúde, suporte para recolocação profissional, a doação de um MacBook e auxílio financeiro de US$ 10 mil voltado para quem desejar empreender após a saída.",
+   "imagem": "https://s2-g1.glbimg.com/sOKC89xHXWGib3vn6e_SLGbiOE0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/8/cUnBBWSFiBMqhBJsGz5g/canva-1.jpg",
+   "data": "2026-11-07T06:00:00+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/07/investidores-perdem-confianca-no-setor-de-ia-e-colocam-ipo-da-anthropic-em-risco.ghtml",
+   "titulo": "Investidores perdem confiança no setor de IA e colocam IPO da Anthropic em risco",
+   "resumo": "Investidores demonstraram cautela em relação à oferta pública inicial de ações (IPO) da Anthropic, startup de inteligência artificial, levantando incertezas sobre o cumprimento do cronograma previsto para novembro. O mercado tem pressionado por um ajuste no valor estimado da empresa, inicialmente calculado em US$ 1,5 trilhão, em meio a perdas recentes de empresas de tecnologia e desafios geopolíticos. A captação de recursos é considerada essencial para suprir prejuízos e financiar compromissos de expansão.",
+   "imagem": "https://s2-g1.glbimg.com/HDJnmOO1OoRQZUeI9QBwQazrymg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/n/7BQJxFSR6juUrrAWybuA/2026-09-18t122428z-2035353265-rc2qrla2prcd-rtrmadp-3-ai-europe-risks.jpg",
+   "data": "2026-11-07T06:00:00+00:00"
+  },
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/06/mulher-relata-fuga-de-carcere-privado-apos-agressor-achar-que-ela-estava-fraca-pensei-vou-morrer.ghtml",
+   "titulo": "Mulher relata fuga de cárcere privado após agressor achar que ela estava fraca: 'Pensei: vou morrer'",
+   "resumo": "Uma mulher que sobreviveu a um cárcere privado na região de Campinas relatou as agressões, ameaças e o sofrimento psicológico que enfrentou sob o domínio do ex-companheiro. Ela conseguiu escapar em um momento de descuido do agressor, que deixou o portão aberto acreditando que a vítima não tinha mais forças para reagir. Quase três meses após a fuga, ela ainda lida com traumas emocionais e pesadelos frequentes, necessitando de acompanhamento médico e apoio especializado no CAPS para se recuperar.",
+   "imagem": "https://s2-g1.glbimg.com/lE9lQmMrYz_HLPTyaT5YoSNUw7M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/R/OARXAXQ5WONQtQD0gePA/design-sem-nome-24-.jpg",
+   "data": "2026-11-06T23:09:47+00:00"
+  },
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/06/justica-proibe-multinacional-de-rh-de-fazer-exames-ocupacionais-por-telemedicina-em-todo-o-brasil.ghtml",
+   "titulo": "Justiça proíbe multinacional de RH de fazer exames ocupacionais por telemedicina em todo o Brasil",
+   "resumo": "A Justiça do Trabalho de Campinas determinou que a multinacional GI Group Brasil suspenda a aplicação de exames médicos ocupacionais por telemedicina em todo o território nacional. A decisão liminar, expedida a pedido do Ministério Público do Trabalho, abrange exames admissionais, demissionais e periódicos, fixando prazo de 60 dias para adequação e multa de R$ 5 mil por descumprimento. A ação ocorreu após a apuração de que mais de 18 mil exames foram efetuados à distância pela empresa no período investigado.",
+   "imagem": "https://s2-g1.glbimg.com/61lmMavbmU7_Fm1A8Apb2M1X2PI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/8/dACNypQKAehndOrOxIUw/20240607-104926.jpg",
+   "data": "2026-11-06T21:00:50+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/06/apple-restringe-sugestoes-de-termos-como-trump-ditador-e-joe-sonolento-no-iphone.ghtml",
+   "titulo": "Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone",
+   "resumo": "Uma pesquisa conduzida por Derik Kauffman identificou que a Apple restringe uma extensa lista de termos no teclado do iOS, impedindo o preenchimento automático e a digitação por gestos de palavras consideradas ofensivas ou politicamente polêmicas, como expressões contra Donald Trump e Joe Biden. Embora o usuário ainda consiga digitar manualmente os termos, a limitação de sugestões reduz a velocidade de escrita e levanta questionamentos sobre a moderação de conteúdo no sistema operacional da marca.",
+   "imagem": "https://s2-g1.glbimg.com/RTKjYcn7urmaxzwqp86ZiuvsoJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/c/4/2HxSH1S5OVEi8FuFen8g/globo-canal-5-20240910-1800-frame-260599.jpeg",
+   "data": "2026-11-06T18:45:46+00:00"
+  }
+ ],
  "bloqueados": [
   "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml"
  ]
