@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Resumo de notícias</title>
+<style>
+:root{--bg:#f4f5f7;--cd:#fff;--tx:#14181f;--mu:#67707e;--bd:#e1e4e9;--ac:#1d6fd6}
+@media(prefers-color-scheme:dark){:root{--bg:#0f1318;--cd:#171c23;--tx:#e8ebf0;--mu:#8a94a3;--bd:#262d37;--ac:#5aa2f5}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.5 system-ui,sans-serif;padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom)}
+main{max-width:620px;margin:0 auto;padding:10px 12px 30px}
+header{position:sticky;top:0;background:var(--bg);padding:8px 0;z-index:2}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+h1{font-size:1.1rem;margin:0;flex:1}
+button,select,textarea,input{font:inherit;color:var(--tx);background:var(--cd);border:1px solid var(--bd);border-radius:8px;padding:8px 12px}
+button.pri{background:var(--ac);color:#fff;border-color:var(--ac);font-weight:600}
+button:disabled{opacity:.5}
+.tabs button{flex:1}.tabs button.on{border-color:var(--ac);color:var(--ac);font-weight:600}
+.mu{color:var(--mu);font-size:.82rem}
+article{background:var(--cd);border:1px solid var(--bd);border-radius:12px;padding:14px;margin:10px 0;display:flex;gap:12px}
+.av{flex:none;width:42px;height:42px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:700;font-size:.85rem}
+.bd{min-width:0;flex:1}.src{font-weight:700;margin-right:8px}
+h2{font-size:1rem;margin:6px 0 4px}p{margin:0 0 10px}
+img{width:100%;max-height:320px;object-fit:cover;border-radius:10px;margin-bottom:10px;background:var(--bd)}
+a{color:var(--ac);font-weight:600;text-decoration:none}
+textarea,input{width:100%;margin:4px 0 14px}textarea{min-height:170px;font-size:.85rem}
+pre{white-space:pre-wrap;font-size:.78rem;color:var(--mu)}
+.vz{color:var(--mu);text-align:center;padding:40px 0}
+</style></head><body><main>
+<header>
+ <div class="row"><h1>Resumo de notícias</h1><button class="pri" id="bAt">Atualizar</button></div>
+ <div class="row tabs" style="margin-top:8px"><button id="t1" class="on">Notícias</button><button id="t2">Configurações</button></div>
+ <div class="mu" id="st" style="margin-top:6px"></div>
+</header>
+<section id="v1"><select id="fl" style="margin-top:6px"><option value="">Todas as fontes</option></select><div id="ls"></div></section>
+<section id="v2" hidden>
+ <label>Chave do Gemini</label><input id="key" type="password" autocomplete="off">
+ <label>Modelo da IA</label><input id="mod">
+ <label>Fontes (r/nome, ou Nome | endereço RSS). Uma por linha; # comenta.</label><textarea id="fon"></textarea>
+ <label>Blacklist (uma palavra ou assunto por linha)</label><textarea id="blk"></textarea>
+ <button class="pri" id="sv">Salvar</button> <span class="mu" id="ok"></span>
+ <h3>Relatório da última atualização</h3><pre id="lg"></pre>
+</section>
+<script>
+const $=s=>document.querySelector(s),sleep=ms=>new Promise(r=>setTimeout(r,ms));
+const UA="Mozilla/5.0 (Linux; Android 16; SM-A546B) AppleWebKit/537.36 Chrome/130 Mobile Safari/537.36";
+const DEF={key:"",modelo:"gemini-3.8-flash",
+fontes:`g1 · Geral | https://g1.globo.com/rss/g1/
+g1 · Campinas | https://g1.globo.com/rss/g1/sp/campinas-regiao/
+g1 · Tecnologia | https://g1.globo.com/rss/g1/tecnologia/
+g1 · Economia | https://g1.globo.com/rss/g1/economia/
+r/campinas
+r/F1Technical
+r/farialimabets
+r/formula1
+r/formuladank
+r/GlobalOffensive
+r/GTA6
+r/PathOfExile2`,
+black:`gta 6
+gta6
+gta vi
+jason
+lucia
+endgame
+spoiler
+rockstar`};
+const ld=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))??d}catch{return d}};
+const sv=(k,v)=>localStorage.setItem(k,JSON.stringify(v));
+let cfg={...DEF,...ld("cfg",{})},db=ld("db",{itens:[],bloq:[],fontes:[],em:null});
+const lista=t=>t.split("\n").map(s=>s.trim()).filter(s=>s&&!s.startsWith("#"));
+const norm=t=>t.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+const esc=s=>s.replace(/[.*+?^${}()|[\]\\]/g,"\\$&");
+const bate=(t,ts)=>{t=norm(t);return ts.some(x=>new RegExp("\\b"+esc(norm(x))+"\\b").test(t))};
+const fmt=new Intl.DateTimeFormat("pt-BR",{timeZone:"America/Sao_Paulo",day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+const txt=h=>(new DOMParser().parseFromString(h||"","text/html").body.textContent||"").replace(/\s+/g," ").replace(/submitted by.*$/,"").trim();
+let log=[];const L=s=>{log.push(s);$("#lg").textContent=log.join("\n")};
+
+async function lerFeed(url){
+ const r=await fetch(url,{headers:{"User-Agent":UA,"Accept":"application/rss+xml,application/atom+xml,text/xml,*/*"}});
+ if(!r.ok)throw new Error("HTTP "+r.status);
+ const x=new DOMParser().parseFromString(await r.text(),"text/xml");
+ return [...x.querySelectorAll("item,entry")].slice(0,10).map(n=>{
+  const t=q=>n.querySelector(q)?.textContent||"",lk=n.querySelector("link[href]");
+  const bruto=t("content")||t("description")||t("summary");
+  const at=(tag,a)=>n.getElementsByTagName(tag)[0]?.getAttribute(a);
+  const im=at("media:thumbnail","url")||at("media:content","url")||at("enclosure","url")||(bruto.match(/<img[^>]+src="([^"]+)"/)||[])[1]||null;
+  const d=new Date(t("pubDate")||t("published")||t("updated"));
+  return{link:(lk?lk.getAttribute("href"):t("link")).trim(),titulo:txt(t("title")),texto:txt(bruto),
+   imagem:im?im.replace(/&amp;/g,"&"):null,data:(isNaN(d)?new Date():d).toISOString()}
+ }).filter(i=>i.link);
+}
+async function ia(lote,black){
+ const itens=lote.map((x,i)=>`ID ${i}\nFonte: ${x.fonte}\nTítulo: ${x.titulo}\nTexto: ${x.texto.slice(0,1500)}`).join("\n\n");
+ const prompt=`Você filtra e resume notícias para um leitor brasileiro que NÃO quer spoilers.
+
+ASSUNTOS PROIBIDOS (blacklist):
+${black.map(b=>"- "+b).join("\n")}
+
+Para cada item abaixo, decida:
+1. "bloquear": true se o item mencionar, tratar, comentar ou fizer QUALQUER alusão aos assuntos proibidos, mesmo indireta (sinônimos, personagens, estúdio, trailer, vazamento, comentários sobre o tema, siglas). Na dúvida, bloqueie.
+2. "resumo": se NÃO bloquear, resuma em português, direto, entre 400 e 600 caracteres, com os fatos principais. O resumo não pode citar nem insinuar nenhum assunto proibido.
+
+Responda APENAS com um JSON no formato:
+[{"id":0,"bloquear":false,"resumo":"..."}]
+(use "resumo":"" quando bloquear). Inclua todos os IDs.
+
+ITENS:
+${itens}`;
+ for(let k=0;k<3;k++){
+  try{
+   const r=await Promise.race([fetch(`https://generativelanguage.googleapis.com/v1beta/models/${cfg.modelo}:generateContent`,
+    {method:"POST",headers:{"Content-Type":"application/json","x-goog-api-key":cfg.key},
+     body:JSON.stringify({contents:[{parts:[{text:prompt}]}],generationConfig:{temperature:.2,responseMimeType:"application/json"}})}),
+    sleep(70000).then(()=>{throw new Error("tempo esgotado")})]);
+   if(r.status==429||r.status>=500){L("  IA erro "+r.status+", tentando de novo");await sleep(8000);continue}
+   if(!r.ok)throw new Error("IA erro "+r.status+" (confira chave e modelo)");
+   const d=await r.json();return JSON.parse(d.candidates[0].content.parts[0].text);
+  }catch(e){L("  IA falhou: "+e.message);await sleep(3000)}
+ }
+ return null;
+}
+async function atualizar(){
+ if(!cfg.key){alert("Cole a chave do Gemini em Configurações.");return}
+ $("#bAt").disabled=true;log=[];const black=lista(cfg.black),conh=new Set([...db.itens.map(i=>i.link),...db.bloq]);
+ const bloq=new Set(db.bloq),pend=[],nomes=[];
+ for(const ln of lista(cfg.fontes)){
+  let nome,url;
+  if(/^r\//i.test(ln)){nome=ln.split(/\s/)[0];url=`https://www.reddit.com/${nome}/.rss`}
+  else if(ln.includes("|")){[nome,url]=ln.split("|").map(s=>s.trim())}else continue;
+  nomes.push(nome);$("#st").textContent="Lendo "+nome+"...";
+  try{
+   const its=await lerFeed(url);let novos=0;
+   for(const i of its){
+    if(conh.has(i.link))continue;
+    if(bate(i.titulo+" "+i.texto,black)){bloq.add(i.link);continue}
+    pend.push({...i,fonte:nome});novos++;
+   }
+   L(`${nome}: ${its.length} itens, ${novos} novos`);
+  }catch(e){L(`${nome}: ERRO ${e.message}`)}
+ }
+ const itens=db.itens;let ok=0;
+ for(let i=0;i<pend.length;i+=5){
+  $("#st").textContent=`IA resumindo... ${Math.min(i+5,pend.length)}/${pend.length}`;
+  const lote=pend.slice(i,i+5),res=await ia(lote,black);
+  if(!res){L("Lote falhou; será tentado na próxima vez");continue}
+  const m={};res.forEach(r=>m[r.id]=r);
+  lote.forEach((x,j)=>{const r=m[j];if(!r)return;
+   if(r.bloquear||!r.resumo)bloq.add(x.link);
+   else{itens.push({fonte:x.fonte,link:x.link,titulo:x.titulo,resumo:r.resumo.trim(),imagem:x.imagem,data:x.data});ok++}});
+ }
+ const corte=Date.now()-7*864e5;
+ db={itens:itens.filter(i=>!bate(i.titulo+" "+i.resumo,black)&&new Date(i.data)>corte).sort((a,b)=>b.data.localeCompare(a.data)).slice(0,300),
+  bloq:[...bloq].slice(-2000),fontes:nomes,em:new Date().toISOString()};
+ sv("db",db);L(`Pronto: ${ok} novos publicados.`);
+ $("#bAt").disabled=false;desenhar();
+}
+function cor(s){let h=0;for(const c of s)h=(h*31+c.charCodeAt(0))%360;return`hsl(${h} 45% 40%)`}
+function el(t,c,x){const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+function desenhar(){
+ const s=$("#fl"),atual=s.value;s.length=1;
+ db.fontes.forEach(n=>{const o=el("option",null,n);o.value=n;s.append(o)});s.value=atual;
+ $("#st").textContent=db.em?"Atualizado em "+fmt.format(new Date(db.em)):"Ainda não atualizado. Toque em Atualizar.";
+ const box=$("#ls");box.replaceChildren();
+ const its=db.itens.filter(i=>!s.value||i.fonte===s.value);
+ if(!its.length){box.append(el("div","vz","Nenhuma notícia ainda."));return}
+ for(const i of its){
+  const a=el("article"),av=el("div","av",i.fonte.startsWith("r/")?i.fonte.slice(2,4).toUpperCase():i.fonte.replace(/[^\p{L}\p{N}]/gu,"").slice(0,2).toUpperCase());
+  av.style.background=cor(i.fonte);const b=el("div","bd"),top=el("div");
+  top.append(el("span","src",i.fonte),el("span","mu",(i.fonte.startsWith("r/")?"Reddit":"Site")+" · "+fmt.format(new Date(i.data))));
+  b.append(top);if(i.titulo)b.append(el("h2",null,i.titulo));b.append(el("p",null,i.resumo));
+  if(i.imagem){const m=el("img");m.src=i.imagem;m.loading="lazy";m.alt="";m.onerror=()=>m.remove();b.append(m)}
+  const l=el("a",null,"Ver original");l.href=i.link;l.target="_blank";l.rel="noopener";b.append(l);a.append(av,b);box.append(a)}
+}
+function aba(n){$("#v1").hidden=n!=1;$("#v2").hidden=n!=2;$("#t1").className=n==1?"on":"";$("#t2").className=n==2?"on":""}
+$("#t1").onclick=()=>aba(1);$("#t2").onclick=()=>aba(2);$("#fl").onchange=desenhar;$("#bAt").onclick=atualizar;
+$("#key").value=cfg.key;$("#mod").value=cfg.modelo;$("#fon").value=cfg.fontes;$("#blk").value=cfg.black;
+$("#sv").onclick=()=>{cfg={key:$("#key").value.trim(),modelo:$("#mod").value.trim(),fontes:$("#fon").value,black:$("#blk").value};
+ sv("cfg",cfg);$("#ok").textContent="Salvo!";setTimeout(()=>$("#ok").textContent="",2000)};
+desenhar();
+</script></main></body></html>

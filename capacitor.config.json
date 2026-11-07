@@ -1,0 +1,6 @@
+{
+  "appId": "com.felipe.resumonoticias",
+  "appName": "Resumo Noticias",
+  "webDir": "www",
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
