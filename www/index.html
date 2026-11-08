@@ -118,7 +118,7 @@ ${itens}`;
     {method:"POST",headers:{"Content-Type":"application/json","x-goog-api-key":cfg.key},
      body:JSON.stringify({contents:[{parts:[{text:prompt}]}],generationConfig:{temperature:.2,responseMimeType:"application/json"}})}),
     sleep(70000).then(()=>{throw new Error("tempo esgotado")})]);
-   if(r.status==429||r.status>=500){L("  IA erro "+r.status+", tentando de novo");await sleep(8000);continue}
+   if(r.status==429||r.status>=500){L("  IA erro "+r.status+", tentando de novo");await sleep(45000);continue}
    if(!r.ok)throw new Error("IA erro "+r.status+" (confira chave e modelo)");
    const d=await r.json();return JSON.parse(d.candidates[0].content.parts[0].text);
   }catch(e){L("  IA falhou: "+e.message);await sleep(3000)}
@@ -146,9 +146,11 @@ async function atualizar(){
   }catch(e){L(`${nome}: ERRO ${e.message}`)}
  }
  const itens=db.itens;let ok=0;
- for(let i=0;i<pend.length;i+=5){
-  $("#st").textContent=`IA resumindo... ${Math.min(i+5,pend.length)}/${pend.length}`;
-  const lote=pend.slice(i,i+5),res=await ia(lote,black);
+ pend.sort((a,b)=>b.data.localeCompare(a.data));pend.splice(30);
+ for(let i=0;i<pend.length;i+=10){
+  if(i>0)await sleep(15000);
+  $("#st").textContent=`IA resumindo... ${Math.min(i+10,pend.length)}/${pend.length}`;
+  const lote=pend.slice(i,i+10),res=await ia(lote,black);
   if(!res){L("Lote falhou; será tentado na próxima vez");continue}
   const m={};res.forEach(r=>m[r.id]=r);
   lote.forEach((x,j)=>{const r=m[j];if(!r)return;
