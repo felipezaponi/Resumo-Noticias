@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-13T17:17:11.932309+00:00",
+ "atualizado_em": "2026-11-14T01:42:48.442792+00:00",
  "fontes": [
   "g1 · Geral",
   "g1 · Campinas",
@@ -246,36 +246,12 @@
    "resumo": "Investidores demonstraram cautela em relação à oferta pública inicial de ações (IPO) da Anthropic, startup de inteligência artificial, levantando incertezas sobre o cumprimento do cronograma previsto para novembro. O mercado tem pressionado por um ajuste no valor estimado da empresa, inicialmente calculado em US$ 1,5 trilhão, em meio a perdas recentes de empresas de tecnologia e desafios geopolíticos. A captação de recursos é considerada essencial para suprir prejuízos e financiar compromissos de expansão.",
    "imagem": "https://s2-g1.glbimg.com/HDJnmOO1OoRQZUeI9QBwQazrymg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/n/7BQJxFSR6juUrrAWybuA/2026-09-18t122428z-2035353265-rc2qrla2prcd-rtrmadp-3-ai-europe-risks.jpg",
    "data": "2026-11-07T06:00:00+00:00"
-  },
-  {
-   "fonte": "g1 · Campinas",
-   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/06/mulher-relata-fuga-de-carcere-privado-apos-agressor-achar-que-ela-estava-fraca-pensei-vou-morrer.ghtml",
-   "titulo": "Mulher relata fuga de cárcere privado após agressor achar que ela estava fraca: 'Pensei: vou morrer'",
-   "resumo": "Uma mulher que sobreviveu a um cárcere privado na região de Campinas relatou as agressões, ameaças e o sofrimento psicológico que enfrentou sob o domínio do ex-companheiro. Ela conseguiu escapar em um momento de descuido do agressor, que deixou o portão aberto acreditando que a vítima não tinha mais forças para reagir. Quase três meses após a fuga, ela ainda lida com traumas emocionais e pesadelos frequentes, necessitando de acompanhamento médico e apoio especializado no CAPS para se recuperar.",
-   "imagem": "https://s2-g1.glbimg.com/lE9lQmMrYz_HLPTyaT5YoSNUw7M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/R/OARXAXQ5WONQtQD0gePA/design-sem-nome-24-.jpg",
-   "data": "2026-11-06T23:09:47+00:00"
-  },
-  {
-   "fonte": "g1 · Campinas",
-   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/06/justica-proibe-multinacional-de-rh-de-fazer-exames-ocupacionais-por-telemedicina-em-todo-o-brasil.ghtml",
-   "titulo": "Justiça proíbe multinacional de RH de fazer exames ocupacionais por telemedicina em todo o Brasil",
-   "resumo": "A Justiça do Trabalho de Campinas determinou que a multinacional GI Group Brasil suspenda a aplicação de exames médicos ocupacionais por telemedicina em todo o território nacional. A decisão liminar, expedida a pedido do Ministério Público do Trabalho, abrange exames admissionais, demissionais e periódicos, fixando prazo de 60 dias para adequação e multa de R$ 5 mil por descumprimento. A ação ocorreu após a apuração de que mais de 18 mil exames foram efetuados à distância pela empresa no período investigado.",
-   "imagem": "https://s2-g1.glbimg.com/61lmMavbmU7_Fm1A8Apb2M1X2PI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/8/dACNypQKAehndOrOxIUw/20240607-104926.jpg",
-   "data": "2026-11-06T21:00:50+00:00"
-  },
-  {
-   "fonte": "g1 · Tecnologia",
-   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/06/apple-restringe-sugestoes-de-termos-como-trump-ditador-e-joe-sonolento-no-iphone.ghtml",
-   "titulo": "Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone",
-   "resumo": "Uma pesquisa conduzida por Derik Kauffman identificou que a Apple restringe uma extensa lista de termos no teclado do iOS, impedindo o preenchimento automático e a digitação por gestos de palavras consideradas ofensivas ou politicamente polêmicas, como expressões contra Donald Trump e Joe Biden. Embora o usuário ainda consiga digitar manualmente os termos, a limitação de sugestões reduz a velocidade de escrita e levanta questionamentos sobre a moderação de conteúdo no sistema operacional da marca.",
-   "imagem": "https://s2-g1.glbimg.com/RTKjYcn7urmaxzwqp86ZiuvsoJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/c/4/2HxSH1S5OVEi8FuFen8g/globo-canal-5-20240910-1800-frame-260599.jpeg",
-   "data": "2026-11-06T18:45:46+00:00"
   }
  ],
  "bloqueados": [
+  "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml",
   "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/11/previsao-tempo-parana-tempestade.ghtml",
-  "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml",
   "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml",
-  "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml"
+  "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml"
  ]
 }
