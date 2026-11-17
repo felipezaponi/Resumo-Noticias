@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T19:37:05.331032+00:00",
+ "atualizado_em": "2026-11-17T03:46:45.461583+00:00",
  "fontes": [
   "g1 · Geral",
   "g1 · Campinas",
@@ -15,6 +15,134 @@
   "r/PathOfExile2"
  ],
  "itens": [
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/11/17/municipio-desenvolve-tecnologia-para-catalogar-populacao-animal.ghtml",
+   "titulo": "Município desenvolve tecnologia para catalogar população animal",
+   "resumo": "A Prefeitura de Rio das Ostras desenvolveu um aplicativo exclusivo para realizar o primeiro Censo Animal do município. A tecnologia foi criada pela equipe de Vigilância em Saúde para catalogar animais domésticos e subsidiar políticas públicas. O sistema funciona offline em tablets operados por agentes de combate às endemias, permitindo coletas mesmo sem sinal de internet ou celular. Ao término de cada dia de trabalho, os registros são transmitidos via bluetooth ao supervisor para a organização das informações.",
+   "imagem": "https://s2-g1.glbimg.com/xWnGra63W35dFHbcTcD64a3RFZw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/C/g74TACQwixtw42gfkFgA/320x180-foto-destaque-horizontal-85-.png",
+   "data": "2026-11-17T03:05:01+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/17/quando-a-procura-aumenta-ter-estrutura-por-tras-da-compra-faz-diferenca.ghtml",
+   "titulo": "Quando a procura aumenta, ter estrutura por trás da compra faz diferença",
+   "resumo": "O mês de novembro concentra uma alta procura por materiais de construção na rede Vilarejo, impulsionada por clientes que antecipam reformas planejadas para o fim de ano. A empresa destaca que compras para obras costumam envolver itens interdependentes, como pisos, revestimentos, louças e tintas, exigindo planejamento conjunto de acabamentos. Para suprir a demanda, a rede opera com oito lojas físicas, atendimento especializado, entregas regionais frequentes e estoque expressivo de produtos.",
+   "imagem": "https://s2-g1.glbimg.com/N5iGFDnznffsmzotnzchNoa58WM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/1/ANAi4NS8e25Injv4jUBQ/foto-01.png",
+   "data": "2026-11-17T03:05:00+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/17/macae-conquista-premio-estadual-de-excelencia-em-seguranca-publica.ghtml",
+   "titulo": "Macaé conquista prêmio estadual de excelência em Segurança Pública",
+   "resumo": "Macaé conquistou o primeiro lugar na categoria Segurança Pública, entre cidades com mais de 100 mil habitantes no Estado do Rio de Janeiro, na edição 2026 do Prêmio Band Cidades Excelentes. A avaliação baseou-se no Índice de Gestão Municipal Áquila, que utiliza inteligência artificial e indicadores oficiais. A gestão municipal atribuiu a premiação a investimentos contínuos em monitoramento integrado, qualificação da Guarda Municipal e cooperação estreita com as forças policiais do estado.",
+   "imagem": "https://s2-g1.glbimg.com/MWys_KS6zVsBULiHuur8xGTMmHk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/v/DMa6dmRFGCvAG11NBquw/foto-1-premio-band.jpeg",
+   "data": "2026-11-17T03:03:01+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/17/eleicoes-2026-comparecimento-adolescentes-segundo-turno-20214.ghtml",
+   "titulo": "Adolescentes vão mais às urnas e registram maior comparecimento desde 2014",
+   "resumo": "O comparecimento de jovens de 16 e 17 anos às urnas no segundo turno das eleições atingiu 88% do eleitorado apto nessa faixa etária, marcando o maior índice registrado desde 2014, segundo levantamento feito com dados da Justiça Eleitoral. O índice representa cerca de 1,4 milhão de adolescentes participando do pleito de forma voluntária, já que o voto é facultativo para esse grupo. Os dados do TSE mostram uma trajetória constante de crescimento na adesão dos jovens ao processo eleitoral.",
+   "imagem": "https://s2-g1.glbimg.com/_YvBXe221nLjJl9JzRUFQAqk71Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/h/SXlDgVTAGC4j6jmCMJfw/pzzb8864.jpg",
+   "data": "2026-11-17T03:00:01+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/saude/noticia/2026/11/17/nova-diretriz-sobre-cancer-de-prostata-crava-idade-para-rastreamento-e-expoe-desigualdade-no-acesso-a-exames-e-tratamentos.ghtml",
+   "titulo": "Nova diretriz sobre câncer de próstata crava idade para rastreamento e expõe desigualdade no acesso a exames e tratamentos",
+   "resumo": "Sociedades médicas brasileiras publicaram uma nova diretriz conjunta para orientar a detecção e o tratamento do câncer de próstata, abrangendo desde o rastreamento inicial até fases avançadas da doença. O documento visa combater a alta incidência de diagnósticos tardios no Brasil, agravada pela falta de rastreamento padronizado, principalmente nas regiões Norte e Nordeste. A orientação recomenda iniciar o acompanhamento preventivo aos 50 anos, antecipando para 40 ou 45 anos em pacientes de grupos de risco. O material estará disponível gratuitamente e será atualizado continuamente.",
+   "imagem": "https://s2-g1.glbimg.com/E_PPR859NRs3fQrNbvDJbbhQGAQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/r/PMFoy6RoGtmB7fa58T9A/adobestock-791320892.jpeg",
+   "data": "2026-11-17T03:00:00+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/17/caso-master-completa-um-ano-com-vorcaro-preso-expectativa-de-denuncia-e-crise-no-stf.ghtml",
+   "titulo": "Caso Master completa um ano com Vorcaro preso, expectativa de denúncia e crise no STF",
+   "resumo": "O caso do Banco Master completa um ano com o banqueiro Daniel Vorcaro detido no Distrito Federal e a expectativa de denúncia pela Procuradoria-Geral da República. A apuração avançou sobre o meio político e causou tensões no Supremo Tribunal Federal. Relatórios da Polícia Federal indicam que o empresário tentava evitar a falência do banco, tinha ciência prévia de ações policiais e chegou a planejar deixar o país antes da prisão. Vorcaro cumpre rotina com trabalhos internos e leitura, enquanto os desdobramentos judiciais e as investigações continuam em andamento.",
+   "imagem": "https://s2-g1.glbimg.com/fB_m2gbnoIG1bDYTj509yUd2QrI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/W/jvZKQ8SHuurUcBjeb97A/vorcaro.jpg",
+   "data": "2026-11-17T03:00:00+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/17/big-techs-camara-deve-votar-nesta-terca-projeto-que-regulamenta-mercados-digitais-entenda.ghtml",
+   "titulo": "Big techs: Câmara deve votar nesta terça projeto que regulamenta mercados digitais; entenda",
+   "resumo": "A Câmara dos Deputados deve votar um projeto de lei que cria uma superintendência no Cade voltada à regulação de mercados digitais e à garantia da livre concorrência. A medida foca nas grandes empresas de tecnologia com faturamento anual global acima de R$ 50 bilhões ou superior a R$ 5 bilhões no Brasil, abrangendo gigantes como Alphabet, Meta, Amazon, Apple e Microsoft. A proposta não prevê moderação de conteúdo, concentrando-se na defesa do consumidor e na prevenção de práticas anticompetitivas.",
+   "imagem": "https://s2-g1.glbimg.com/IwJCLx2SMeklEX2QM_eIkFHyOX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/d/bwdCtwSfCBi8h2U0uLCA/fachada-cade.png",
+   "data": "2026-11-17T03:00:00+00:00"
+  },
+  {
+   "fonte": "g1 · Economia",
+   "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/17/concurso-da-camara-inscricoes-terminam.ghtml",
+   "titulo": "Concurso da Câmara: inscrições terminam nesta terça; salário passa de R$ 32 mil",
+   "resumo": "As inscrições para o concurso público da Câmara dos Deputados encerram-se nesta terça-feira, às 18h. O certame oferece 184 vagas, entre contratações imediatas e cadastro de reserva, abrangendo áreas como engenharia, comunicação e registro e redação — esta última aceitando qualquer graduação de nível superior. A taxa de inscrição custa R$ 130 e o processo seletivo é organizado pelo Cebraspe. O salário inicial para o cargo de analista legislativo é de R$ 32.070,88 para todas as especialidades contempladas no edital.",
+   "imagem": "https://s2-g1.glbimg.com/F5kLWZW57wQ5PypB5c1b-TKzFJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/LDKotmSA2jdLrNxE6g3A/plenario-camara-deputados.jpg",
+   "data": "2026-11-17T03:00:00+00:00"
+  },
+  {
+   "fonte": "g1 · Economia",
+   "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/17/mega-sena-pode-pagar-r-34-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
+   "titulo": "Mega-Sena pode pagar R$ 34 milhões nesta terça-feira; g1 transmite ao vivo",
+   "resumo": "O concurso 3.087 da Mega-Sena pode pagar um prêmio estimado em R$ 34 milhões nesta terça-feira, após acumular no sorteio anterior. O sorteio acontece a partir das 21h em São Paulo e terá transmissão ao vivo. Os apostadores podem registrar seus jogos até as 20h nas casas lotéricas credenciadas ou pelos canais eletrônicos da Caixa Econômica Federal, como aplicativo e site oficial. Para quem optar por bolões digitais, o prazo limite vai até as 20h30. O valor de uma aposta simples, contendo seis dezenas, custa R$ 6.",
+   "imagem": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg",
+   "data": "2026-11-17T03:00:00+00:00"
+  },
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/16/cratera-que-engoliu-mulher-com-crianca-no-colo-e-homem-no-interior-de-sp-tinha-5-metros-de-profundidade.ghtml",
+   "titulo": "Cratera que 'engoliu' mulher com criança no colo e homem no interior de SP tinha 5 metros de profundidade",
+   "resumo": "Uma cratera de cerca de cinco metros de profundidade se abriu em uma calçada no Centro de Sumaré, no interior de São Paulo, engolindo uma mulher que segurava a filha de dois anos e um homem. O incidente mobilizou moradores e equipes de resgate na Avenida Rebouças. As três vítimas foram socorridas em uma UPA e liberadas, com a criança saindo ilesa e a mulher sofrendo ferimentos no joelho. De acordo com a Secretaria Municipal de Obras, o rompimento de uma caixa de inspeção subterrânea decorrente da força da água provocou a erosão. Reparos emergenciais foram realizados no local.",
+   "imagem": "https://s2-g1.glbimg.com/dwi7X7M8b5YwNbxjpGn_EvX6lxU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/K/17IqAkRNC0oNZYvfSKpg/eptv-cp-bdc-2409-flagra-faixa-exclusiva-3-.jpg",
+   "data": "2026-11-16T23:28:48+00:00"
+  },
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/16/video-menino-de-3-anos-encontrado-sozinho-em-ponto-de-onibus-guia-guardas-ate-a-propria-casa-pai-e-preso.ghtml",
+   "titulo": "VÍDEO: menino de 3 anos encontrado sozinho em ponto de ônibus guia guardas até a própria casa; pai é preso",
+   "resumo": "Um menino de três anos foi resgatado após ser encontrado sozinho em um ponto de ônibus no Parque do Horto, em Hortolândia, interior paulista. A criança indicou o caminho de volta aos guardas municipais, guiando-os até sua residência, situada a cerca de quinhentos metros do local. O pai, que detém a guarda legal da criança e demonstrava sinais de embriaguez, foi preso em flagrante por abandono de incapaz, obtendo liberdade provisória após audiência de custódia. Segundo as autoridades locais, o episódio não foi inédito, e o menor foi acolhido preventivamente em um abrigo municipal.",
+   "imagem": "https://s2-g1.glbimg.com/ZJNnhWCNvjBVgattGJk98pQQCAQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/O/YaYCzFSByVimRV9fOgfQ/design-sem-nome-2026-11-16t192215.910.jpg",
+   "data": "2026-11-16T22:27:16+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/16/united-airlines-enfrenta-falha-generalizada.ghtml",
+   "titulo": "United Airlines enfrenta falha generalizada, três dias após apagão aéreo",
+   "resumo": "A United Airlines sofreu uma falha técnica generalizada em seus sistemas, o que provocou atrasos na partida de diversos voos nos Estados Unidos. A companhia descartou a hipótese de ataque cibernético e afirmou que os aviões que já estavam em rota não foram impactados. De acordo com o sindicato de pilotos, o erro impedia o envio dos dados de peso final das aeronaves para a decolagem. O problema foi posteriormente solucionado pela empresa, que pediu desculpas aos passageiros afetados pelo transtorno.",
+   "imagem": "https://s2-g1.glbimg.com/qA_rgaEeflo9V3hbqaepZL6cwNU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/p/4UkfjZS9OZXtObuZuqwQ/ap26318605741107.jpg",
+   "data": "2026-11-16T22:07:46+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/16/fotos-starship-spacex-capturada-bracos-mecanicos-retorno-orbita.ghtml",
+   "titulo": "FOTOS e VÍDEOS mostram momento em que Starship, da SpaceX, é capturada por braços mecânicos",
+   "resumo": "A SpaceX divulgou imagens inéditas da captura no ar da espaçonave Starship por braços mecânicos em sua base de lançamento, após a nave retornar da órbita da Terra. O teste bem-sucedido reforça a estratégia da companhia de garantir a reutilização total do veículo espacial, que está sendo desenvolvido com apoio da Nasa para futuras missões com destino à Lua e a Marte. A manobra ocorreu um dia depois de um teste anterior que resultou na explosão do propulsor do primeiro estágio durante a decolagem.",
+   "imagem": "https://s2-g1.glbimg.com/cpvZaJawZ2qM9HN7cmOezntObIE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/u/UbAkEPSd2NAyBwXShEdw/starship-retorno-orbita-1.jpeg",
+   "data": "2026-11-16T21:00:21+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/16/grandes-bancos-dos-eua-relatam-interrupcoes-generalizadas-em-seus-servicos.ghtml",
+   "titulo": "Falha técnica afeta serviços de grandes bancos dos Estados Unidos",
+   "resumo": "Uma falha tecnológica iniciada no JPMorgan Chase gerou instabilidade no acesso a serviços bancários e provocou atrasos em transações digitais nos Estados Unidos. A instituição bancária descartou a ocorrência de ataque cibernético e informou que os clientes mantiveram acesso aos fundos enquanto as operações eram normalizadas. O incidente somou-se a uma série recente de panes no país, que nos dias anteriores também afetaram sistemas corporativos da Microsoft e causaram a interrupção de voos pela FAA.",
+   "imagem": "https://s2-g1.glbimg.com/fekD5ZPaagAKNRrqZUoeCrRzqOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/8/JYBrAUSUyHQC8CHH0HsA/ap26320714643957.jpg",
+   "data": "2026-11-16T20:48:14+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/musk-e-nomes-de-peso-da-tecnologia-defendem-volta-de-ex-ceo-da-nvidia.ghtml",
+   "titulo": "Musk e nomes de peso da tecnologia defendem volta de Jensen Huang à Nvidia",
+   "resumo": "Empresários, investidores e funcionários da Nvidia mobilizam-se pelo retorno de Jensen Huang ao comando da empresa. O executivo renunciou após admitir relações extraconjugais, incluindo uma com mulher investigada por espionagem. Uma carta aberta intitulada 'Stand with Jensen' já reuniu mais de 185 mil assinaturas e conta com o apoio público de personalidades como Elon Musk. Apesar do apelo popular e corporativo, o conselho da fabricante de semicondutores descarta reconsiderar a decisão e não cogita a volta de Huang.",
+   "imagem": "https://s2-g1.glbimg.com/XvQhvgXeP7p0VozXZlWCFl5R3TQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/B/sLmuAXQ96Bblo9AIEuyQ/2026-03-17t190329z-433040327-rc2i6ka7ojte-rtrmadp-3-nvidia-gtc.jpg",
+   "data": "2026-11-16T13:18:54+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/16/aviao-comercial-eletrico-china-primeiro-voo-tripulado.ghtml",
+   "titulo": "Avião comercial 100% elétrico faz primeiro voo tripulado na China; VÍDEO",
+   "resumo": "A China realizou o primeiro voo tripulado do CE-25A, uma aeronave comercial totalmente elétrica desenvolvida pela estatal COMAC em parceria com outras entidades. Projetado para transportar até 19 passageiros em viagens de curta distância, o avião tem autonomia estimada em 400 quilômetros e velocidade de cruzeiro de 300 km/h. O teste ocorreu na província de Shandong, com dois pilotos e um engenheiro a bordo, durando quase 58 minutos. Segundo os responsáveis, todos os sistemas operaram de acordo com o planejado.",
+   "imagem": "https://s2-g1.glbimg.com/R8TaY0vRvqTR57BQ3XTRJ7HBz7k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/s/DDTaB2T0GPslrJmwoGBg/aviao-1.jpg",
+   "data": "2026-11-16T12:03:27+00:00"
+  },
   {
    "fonte": "g1 · Geral",
    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/15/deputado-estadual-eleito-fabio-henrique-sofre-infarto-e-e-internado-na-uti-em-aracaju.ghtml",
@@ -273,9 +401,9 @@
   }
  ],
  "bloqueados": [
-  "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml",
-  "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/11/previsao-tempo-parana-tempestade.ghtml",
   "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml",
-  "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml"
+  "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml",
+  "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml",
+  "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/11/previsao-tempo-parana-tempestade.ghtml"
  ]
 }
