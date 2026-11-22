@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T01:17:43.746942+00:00",
+ "atualizado_em": "2026-11-22T17:06:13.566507+00:00",
  "fontes": [
   "g1 · Geral",
   "g1 · Campinas",
@@ -15,6 +15,38 @@
   "r/PathOfExile2"
  ],
  "itens": [
+  {
+   "fonte": "g1 · Economia",
+   "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
+   "titulo": "Mega-Sena 3089 acumula e prêmio vai a R$ 65 milhões; confira os números sorteados",
+   "resumo": "O concurso 3.089 da Mega-Sena, realizado em São Paulo, acumulou após nenhuma aposta acertar as seis dezenas sorteadas (17 - 18 - 27 - 36 - 58 - 59). Com isso, a estimativa do prêmio principal para o próximo sorteio, que acontece na terça-feira, subiu para R$ 65 milhões. Na faixa de cinco acertos, 26 apostadores foram contemplados com R$ 51.466,57 cada, enquanto a quadra registrou 2.971 ganhadores que receberão R$ 643,42. As apostas mínimas custam R$ 6 e podem ser feitas em lotéricas ou pela internet.",
+   "imagem": "https://s2-g1.glbimg.com/iZhcWFwxbQkGi-rFNCwkCL6HrcU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/Z/WyyfKZSXiUMGvXMR4GBg/captura-de-tela-2026-11-22-110233.png",
+   "data": "2026-11-22T14:05:01+00:00"
+  },
+  {
+   "fonte": "g1 · Economia",
+   "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
+   "titulo": "Ovelhas entre painéis solares? Entenda a tendência que une geração de energia e criação de animais",
+   "resumo": "A combinação entre criação de animais e usinas de energia solar, conhecida como estratégia agrivoltaica, tem crescido globalmente. Nos Estados Unidos, cerca de 10% das fazendas solares já contam com rebanhos de ovelhas pastando sob as estruturas. A prática gera benefícios mútuos: além de os animais aproveitarem a sombra e abrigo contra intempéries, a presença da vegetação e o processo de transpiração das plantas resfriam o solo e os próprios painéis solares, o que aumenta a eficiência na geração elétrica.",
+   "imagem": "https://s2-g1.glbimg.com/jc9N2urk6CGMt-0pwtVJmRhR9rA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/j/0AQ7HPQcSij6QWT83cxg/dw-painel-solar-ovelhas-1-.png",
+   "data": "2026-11-22T07:00:01+00:00"
+  },
+  {
+   "fonte": "g1 · Economia",
+   "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/11/22/nova-especie-de-perereca-e-descoberta-em-minas-gerais-apos-cientista-ouvir-canto-incomum.ghtml",
+   "titulo": "Nova espécie de perereca é descoberta em Minas Gerais após cientista ouvir canto incomum",
+   "resumo": "Uma nova espécie de perereca, batizada de Ololygon cataguas, foi descrita na Zona da Mata mineira após mais de dez anos de estudos. A descoberta começou quando o biólogo Clodoaldo Lopes notou um canto incomum em um riacho preservado de Cataguases. Os anfíbios têm tamanho diminuto, com fêmeas medindo até 33,8 milímetros e machos até 24,7 milímetros. A confirmação da nova espécie ocorreu por meio da análise morfológica, como a presença de uma mancha em formato de “W” entre os olhos, combinada com exames de DNA.",
+   "imagem": "https://s2-g1.glbimg.com/-Ox_y49CwNDyVJdHEsBfSEZGWiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/m/uelD0zThyCAGYTIzmM0g/captura-de-tela-2026-11-16-105259.png",
+   "data": "2026-11-22T07:00:00+00:00"
+  },
+  {
+   "fonte": "g1 · Economia",
+   "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml",
+   "titulo": "A falha crítica descoberta na linguagem de programação usada por 90% das grandes empresas do mundo",
+   "resumo": "A startup de cibersegurança Calif utilizou ferramentas de inteligência artificial para identificar uma vulnerabilidade crítica nas funções de memória do Java, uma das linguagens de programação mais populares do mundo. Utilizada amplamente por corporações como Apple e Amazon, além de bancos e instituições governamentais, a tecnologia gerencia tarefas vitais de infraestrutura. A revelação ocorre em meio a alertas sobre a estabilidade de sistemas globais após falhas e manutenções em grandes empresas.",
+   "imagem": "https://s2-g1.glbimg.com/JNsP1ukfk2kSyj-_z56k2F2ljQ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/M/INRa9jRRWJGwhAvJ4z0w/videoframe-1208605.png",
+   "data": "2026-11-22T06:00:00+00:00"
+  },
   {
    "fonte": "g1 · Campinas",
    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/black-friday-e-natal-devem-movimentar-r-9-bilhoes-no-comercio-de-campinas-e-regiao.ghtml",
@@ -48,6 +80,30 @@
    "data": "2026-11-21T22:45:46+00:00"
   },
   {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/21/ataques-ciberneticos-ia-ou-atualizacoes-pendentes-o-que-ha-por-tras-da-onda-de-apagoes-dos-ultimos-dias.ghtml",
+   "titulo": "Ataques cibernéticos, IA ou atualizações pendentes: o que há por trás da onda de apagões dos últimos dias",
+   "resumo": "Uma recente sequência de apagões e falhas técnicas em grandes sistemas reacendeu debates sobre a fragilidade da infraestrutura digital global. Incidentes afetaram serviços da Microsoft, provocaram a paralisação temporária de voos nos Estados Unidos e causaram instabilidades em plataformas da Apple, bancos e na Agência de Segurança Nacional americana. Apesar de ocorrerem em datas próximas, especialistas apontam que se tratam de eventos isolados decorrentes de erros de atualização de sistemas legados.",
+   "imagem": "https://s2-g1.glbimg.com/Ion0o4Kfe9jsDhm54MjKkDyj-Rc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/f/f41JPyQpOXjoIoAyGsGw/9fac61c0-e405-11f1-877f-2bb5452e5ffc.jpg-1-.png",
+   "data": "2026-11-21T10:27:04+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/21/dos-algoritmos-ao-aroma-como-a-ia-esta-mudando-a-criacao-de-perfumes.ghtml",
+   "titulo": "Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
+   "resumo": "A indústria da perfumaria tradicional começou a incorporar ferramentas de inteligência artificial no desenvolvimento de novas fragrâncias. Empresas como a Estée Lauder já utilizam algoritmos em laboratórios em Paris para agilizar a criação de formulações inovadoras e resolver desafios químicos complexos, como combinar texturas densas e leves. Além de identificar propriedades ideais de óleos aromáticos em menos tempo, a tecnologia ajuda a checar regras e conformidades regulatórias internacionais.",
+   "imagem": "https://s2-g1.glbimg.com/UVzY24oQ8zf00UuvY6HYCIyOgbY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/Q/XdIqgPQXSSPdEA8Iwa5Q/pexels-ron-lach-8625562.jpg",
+   "data": "2026-11-21T06:00:01+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/inovacao/noticia/2026/11/21/saida-de-jensen-huang-da-nvidia-pode-frear-a-onda-da-ia.ghtml",
+   "titulo": "Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
+   "resumo": "Jensen Huang renunciou ao cargo de diretor-executivo da Nvidia após revelações de escândalos pessoais, gerando incertezas sobre o futuro da companhia e provocando perdas expressivas em seu valor de mercado. Considerada uma peça-chave na ascensão global da inteligência artificial, a fabricante de semicondutores passou da produção de chips gráficos para liderar a infraestrutura de centros de dados modernos. A saída do cofundador levanta dúvidas sobre possíveis impactos no ritmo de inovação do setor.",
+   "imagem": "https://s2-g1.glbimg.com/i6hHWdNgJJrJkJrYgnYG_Ucb4Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/H5rl3AQ3ucdgHiYNEvEg/fotojet-7-.png",
+   "data": "2026-11-21T06:00:00+00:00"
+  },
+  {
    "fonte": "g1 · Geral",
    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/novembro-azul-novo-protocolo-muda-orientacao-para-diagnostico-precoce-do-cancer-de-prostata.ghtml",
    "titulo": "Novembro Azul: novo protocolo muda orientação para diagnóstico precoce do câncer de próstata",
@@ -78,6 +134,46 @@
    "resumo": "Países europeus repudiaram os novos ataques maciços conduzidos pela Rússia contra diversas cidades da Ucrânia, resultando em pelo menos oito mortes e dezenas de feridos. A investida em larga escala envolveu mais de quinhentos mísseis e drones, provocando cortes graves de energia, destruição de pontes e danos às embaixadas de nações europeias em Kiev, além de violação do espaço aéreo polonês. Diante da gravidade da ofensiva, que empregou munições de fragmentação, a França solicitou uma reunião de emergência no Conselho de Segurança da ONU para discutir a escalada do conflito militar na região.",
    "imagem": null,
    "data": "2026-11-21T00:47:47+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/educacao/noticia/2026/11/20/matematico-da-anthropic-afirma-ter-provado-a-hipotese-de-riemann-um-dos-mais-famosos-enigmas-da-matematica.ghtml",
+   "titulo": "Matemático da Anthropic afirma ter provado a Hipótese de Riemann, um dos mais famosos enigmas da matemática",
+   "resumo": "Um pesquisador da empresa de inteligência artificial Anthropic afirmou ter solucionado a Hipótese de Riemann com o auxílio do chatbot Claude. Considerado um dos enigmas matemáticos mais complexos da história e integrante dos Problemas do Milênio, o desafio aborda a distribuição de números primos e conta com um prêmio de um milhão de dólares. A demonstração publicada, contudo, ainda não passou por avaliação independente ou revisão formal por pares, exigência necessária para ser homologada.",
+   "imagem": "https://s2-g1.glbimg.com/ApbSiLXQqg2xa841pQ3xo4rJirA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/E/GHhrgsQ6uUvrVkoz3cmA/assistentes-ia.jpg",
+   "data": "2026-11-20T23:11:41+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/20/acoes-anthropic.ghtml",
+   "titulo": "Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
+   "resumo": "As ações da Anthropic, criadora do Claude, fecharam em queda de 8,5% um dia após realizarem a maior oferta pública inicial de ações (IPO) da história dos Estados Unidos, que movimentou US$ 93,5 bilhões e superou a SpaceX. Os papéis caíram para US$ 88,91, aproximando-se do preço fixado no IPO (US$ 83). O recuo reflete o ceticismo crescente do mercado financeiro em relação ao setor de inteligência artificial, impulsionado por dúvidas sobre a velocidade de retorno diante dos altos investimentos na tecnologia.",
+   "imagem": "https://s2-g1.glbimg.com/-q0C26O08SToJ7HKLzSNAZNhj_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/m/NVfUm5SZq6i7kTRN7u4w/2026-11-19t164121z-1052802186-rc22roau8aoi-rtrmadp-3-usa-ipo-anthropic.jpg",
+   "data": "2026-11-20T22:34:15+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/tiktok-ferramentas-para-identificar-ia-e-deepfakes.ghtml",
+   "titulo": "TikTok lança ferramentas para identificar conteúdos de IA e deepfakes; veja como funcionam",
+   "resumo": "O TikTok lançou duas ferramentas para aumentar a transparência e combater deepfakes e manipulações por inteligência artificial. A primeira permite verificar publicamente se um vídeo ou imagem foi editado usando ferramentas de IA da própria plataforma, mesmo sem possuir conta no serviço. Já a segunda, denominada Likeness Detection, visa criadores de conteúdo e figuras públicas, possibilitando rastrear e denunciar o uso não autorizado de suas imagens em conteúdos sintéticos antes das eleições europeias.",
+   "imagem": "https://s2-g1.glbimg.com/FUULwFt5nMKOeZd_CA1cJJjvkLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/4/awDZ8iRBOibmSDJYzvSA/ap26023052378716.jpg",
+   "data": "2026-11-20T21:30:05+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
+   "titulo": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
+   "resumo": "As ações da Nvidia acumulam queda superior a 30% em relação a outubro, caminhando para a sétima semana consecutiva de perdas, o pior desempenho da companhia desde 2008. O recuo foi catalisado por um escândalo de traição e suspeitas de espionagem que resultou na saída de Jensen Huang do comando da empresa, além de dúvidas do mercado sobre a sustentabilidade da demanda por IA. Com isso, a fabricante perdeu a liderança de mercado e caiu para o quarto lugar global, avaliada em US$ 3,7 trilhões.",
+   "imagem": "https://s2-g1.glbimg.com/i6hHWdNgJJrJkJrYgnYG_Ucb4Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/H5rl3AQ3ucdgHiYNEvEg/fotojet-7-.png",
+   "data": "2026-11-20T18:47:51+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-diz-que-nao-permitira-que-empresas-construam-data-centers-fora-dos-eua.ghtml",
+   "titulo": "Trump diz que não permitirá que empresas construam data centers fora dos EUA",
+   "resumo": "O presidente dos Estados Unidos, Donald Trump, declarou que o governo pretende proibir empresas norte-americanas de construir centros de dados fora do país. Segundo o presidente, companhias que optarem por erguer essas infraestruturas no exterior serão alvos de tributos extremamente elevados. A medida surge em meio à forte expansão da inteligência artificial, que depende intensamente da capacidade computacional fornecida por data centers para treinar e executar modelos complexos de ponta.",
+   "imagem": "https://s2-g1.glbimg.com/Vad02KxTwEUCVOTuoq4Ug61du1c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/yxYdKOS2mRfxIH3M4BFw/2026-11-20t180212z-1698863269-rc2uroayz9hc-rtrmadp-3-usa-trump.jpg",
+   "data": "2026-11-20T18:41:10+00:00"
   },
   {
    "fonte": "g1 · Campinas",
@@ -318,97 +414,17 @@
    "resumo": "Mesmo enfrentando lesões físicas recentes, candidatos compareceram para realizar o segundo dia do Exame Nacional do Ensino Médio em Campinas. O estudante Robson Luiz, de 18 anos, torceu o tornozelo praticando futebol na véspera, mas manteve a motivação e fez a prova com o pé enfaixado. Situação similar foi vivida por João Victor Santos, também de 18 anos, que prestou o exame com o braço imobilizado devido a uma lesão nos ligamentos, ambos focados na etapa focada em exatas e ciências da natureza.",
    "imagem": "https://s2-g1.glbimg.com/EOzo80sdPsxFRqEJHt18Mv5bt9E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/g/fAfsa5QHStSy1Ac0LInQ/area-1-21-.png",
    "data": "2026-11-15T17:53:31+00:00"
-  },
-  {
-   "fonte": "g1 · Campinas",
-   "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/15/medalha-simbolo-protecao-dada-pai-amuleto-candidata-enem.ghtml",
-   "titulo": "Medalha símbolo de proteção dada pelo pai vira amuleto para candidata no 2º dia do Enem: 'Me ajudando e me fortalecendo'",
-   "resumo": "Durante o segundo dia de aplicação do Enem, a estudante Yasmin Carvalho, de 18 anos, apostou em uma medalha de São Bento dada pelo pai como amuleto de proteção para encarar as 90 questões de matemática e ciências da natureza em Campinas. A jovem busca ingressar no curso de gastronomia. Na região de Campinas, o número de participantes inscritos registrou um expressivo crescimento de 14,9% em comparação a 2025, integrando o contingente de 5 milhões de pessoas mobilizadas pelo exame nacional.",
-   "imagem": "https://s2-g1.glbimg.com/eGrAFXpCkUjIuR5KdT6loqu1Zhk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/f/AicJp3SWS7vgZIQwiyhg/whatsapp-image-2026-11-15-at-12.07.42.jpeg",
-   "data": "2026-11-15T16:38:37+00:00"
-  },
-  {
-   "fonte": "g1 · Campinas",
-   "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/15/aos-61-anos-candidato-ganha-apoio-familia-fazer-enem-mira-carreira-engenharia-civil.ghtml",
-   "titulo": "Aos 61 anos, candidato ganha apoio da família para fazer o Enem e mira carreira na engenharia civil",
-   "resumo": "Entre os milhares de jovens que compareceram aos locais do Exame Nacional do Ensino Médio em Campinas, Adão Nascimento destacou-se ao prestar o exame aos 61 anos com o apoio de seus familiares. O candidato busca uma boa pontuação para ingressar no curso de engenharia civil e construir carreira no setor da construção. Ele considerou a primeira etapa do exame tranquila e agora enfrenta as provas de matemática e ciências da natureza, que tiveram alta procura na região e em todo o país.",
-   "imagem": "https://s2-g1.glbimg.com/AuYDWklbOyeUXQHX3PWNS_pXCFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/8/QJBLzsRlCzbCB3alm2Jw/area-1-20-.png",
-   "data": "2026-11-15T16:19:33+00:00"
-  },
-  {
-   "fonte": "g1 · Tecnologia",
-   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/15/eua-bessent-nvidia-novo-ceo-jensen-huang.ghtml",
-   "titulo": "Secretário do Tesouro dos EUA defende que Nvidia busque novo CEO fora da empresa após saída de Jensen Huang",
-   "resumo": "O secretário do Tesouro dos Estados Unidos, Scott Bessent, declarou que a fabricante de chips Nvidia deve buscar um novo presidente-executivo de fora da companhia. A posição surge após a renúncia do cofundador Jensen Huang, motivada por revelações de casos extraconjugais, incluindo o envolvimento com uma empresária sob suspeita de ligação com a inteligência chinesa. O episódio gerou preocupações sobre a segurança de informações estratégicas da empresa em meio à disputa tecnológica entre EUA e China.",
-   "imagem": "https://s2-g1.glbimg.com/ztaCK17_0843ae14QQxUu2ka7Q8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/M/VyDVOrTdCdyYtMWHpSSw/2026-01-20t134209z-1360854568-rc215ja2axy8-rtrmadp-3-davos-meeting.jpg",
-   "data": "2026-11-15T15:54:22+00:00"
-  },
-  {
-   "fonte": "g1 · Geral",
-   "link": "https://g1.globo.com/go/goias/noticia/2026/11/15/diarista-volta-a-estudar-por-incentivo-da-filha-e-faz-o-enem-pela-primeira-vez-achava-que-nao-era-capaz.ghtml",
-   "titulo": "Diarista volta a estudar por incentivo da filha e faz o Enem pela primeira vez: ‘Achava que não era capaz’",
-   "resumo": "A diarista Irismar Vieira Damasceno, de 55 anos, realiza o Exame Nacional do Ensino Médio (Enem) pela primeira vez em Goiânia, incentivada por familiares e professores. Natural do Piauí e morando em Goiás há dez anos, ela voltou aos estudos recentemente e conclui o ensino médio neste ano. Confiante no segundo dia de provas, Irismar superou o medo inicial e planeja ingressar no ensino superior nas áreas de Saúde ou Direito, integrando o grupo de mais de 160 mil candidatos participantes no estado.",
-   "imagem": "https://s2-g1.glbimg.com/bpGyOiRrjwZJqdtO4fx3kGwd2ic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/h/IJzf2CRL6eAkkzXDM2yg/irismar.jpg",
-   "data": "2026-11-15T15:47:30+00:00"
-  },
-  {
-   "fonte": "g1 · Geral",
-   "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/15/quatro-apostas-do-parana-acertam-a-quina-da-mega-sena-e-levam-premios-de-r-327-mil-veja-cidades.ghtml",
-   "titulo": "Quatro apostas do Paraná acertam a quina da Mega-Sena e levam prêmios de R$ 32,7 mil; veja cidades",
-   "resumo": "Quatro apostas do Paraná acertaram a quina no concurso 3086 da Mega-Sena, garantindo a cada uma a quantia de R$ 32.785,73. Os jogos foram registrados nas cidades de Londrina, Medianeira, Peabiru e São José dos Pinhais. Nenhum participante acertou as seis dezenas sorteadas (03 - 20 - 35 - 38 - 43 - 46), fazendo com que o prêmio principal acumulasse para R$ 34 milhões no próximo sorteio, marcado para terça-feira. No total nacional, 44 apostas cravaram cinco números e mais de 2,5 mil fizeram a quadra.",
-   "imagem": "https://s2-g1.glbimg.com/uWWg9r_YnVxE7_QFtTBUrk-gadY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/F/07GIU5TCe25kklNrTGXg/mega-sena-1200.webp",
-   "data": "2026-11-15T15:47:18+00:00"
-  },
-  {
-   "fonte": "g1 · Tecnologia",
-   "link": "https://g1.globo.com/mundo/noticia/2026/11/15/coreia-do-sul-investiga-1o-colocado-em-prova-apos-confissao-de-fraude-com-ia.ghtml",
-   "titulo": "Coreia do Sul investiga 1º colocado em prova após confissão de fraude com IA",
-   "resumo": "A polícia da Coreia do Sul abriu uma investigação após o primeiro colocado em um concurso nacional para contadores fiscais confessar que utilizou inteligência artificial para responder às provas. O candidato acertou quase a totalidade das questões na primeira fase, despertando suspeitas sobre o uso de equipamentos eletrônicos. Por meio de seu advogado, ele admitiu ter fotografado o exame com uma câmera em miniatura e consultado as respostas geradas por IA em seu celular. O certificado dele deve ser suspenso.",
-   "imagem": "https://s2-g1.glbimg.com/JfJ0hPWAfoFXUHC-IQhIiL4Luo4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/B/n/NkMbGSRKOJExmzxrpzWQ/whatsapp-image-2022-04-08-at-19.34.00.jpeg",
-   "data": "2026-11-15T12:06:34+00:00"
-  },
-  {
-   "fonte": "g1 · Campinas",
-   "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/15/enem-2026-62-mil-candidatos-da-regiao-encaram-questoes-de-matematica-e-ciencias-da-natureza-neste-domingo.ghtml",
-   "titulo": "Enem 2026: 62 mil candidatos da região encaram questões de matemática e ciências da natureza neste domingo",
-   "resumo": "Mais de 62 mil estudantes da região de Campinas realizam neste domingo o segundo e último dia de provas do Enem, enfrentando 90 questões de matemática e ciências da natureza (física, química e biologia). O total de inscritos na região cresceu quase 15% em relação ao ano anterior e 32% se comparado a 2024. Os portões fecham às 13h, e o exame termina às 18h30. Em âmbito nacional, a edição reúne 5 milhões de participantes, o maior índice desde 2020. Candidatos devem checar seus locais de prova com antecedência.",
-   "imagem": "https://s2-g1.glbimg.com/bH_vg5CqexYUYBZh58Q2NA7X2Qc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/r/HIA0tyRemH3D25eEGUwQ/imagens-g1-2026-11-03t114925.084.png",
-   "data": "2026-11-15T11:15:00+00:00"
-  },
-  {
-   "fonte": "g1 · Tecnologia",
-   "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/15/hackers-invadem-subsidiaria-dos-correios-da-franca-e-expoem-dados-de-22-milhoes.ghtml",
-   "titulo": "Hackers invadem subsidiária dos Correios da França e expõem dados de 22 milhões",
-   "resumo": "A Maileva, subsidiária de serviços postais digitais do grupo francês La Poste, foi alvo de um ataque hacker que expôs dados pessoais de aproximadamente 22 milhões de pessoas, número equivalente a um terço da população da França. A violação comprometeu informações cadastrais de destinatários, como nomes completos e endereços postais utilizados para correspondências corporativas. Segundo a instituição, dados bancários e informações financeiras dos usuários não foram afetados pelo incidente.",
-   "imagem": "https://s2-g1.glbimg.com/XnEUqwh_7yy5jCWeyntu3Hx_8Tc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/r/F/4fo9a1SPqypWWS2U2eAQ/imagem-001.png",
-   "data": "2026-11-15T10:21:11+00:00"
-  },
-  {
-   "fonte": "g1 · Tecnologia",
-   "link": "https://g1.globo.com/inovacao/noticia/2026/11/15/quais-paises-estao-na-mira-do-brasil-para-desenvolver-cadeias-de-minerais-criticos-e-terras-raras.ghtml",
-   "titulo": "Quais países estão na mira do Brasil para desenvolver cadeias de minerais críticos e terras raras?",
-   "resumo": "O governo brasileiro planeja atrair investimentos estrangeiros para impulsionar a cadeia produtiva de minerais críticos e terras raras, recursos essenciais para tecnologias de ponta e para a transição energética. A prioridade é estabelecer parcerias com nações dispostas a realizar o processamento em solo brasileiro. Em meio à forte dependência global em relação à China, o país já firmou acordos ou negocia com parceiros estratégicos como Estados Unidos, União Europeia, Índia, Canadá, Japão e Coreia do Sul.",
-   "imagem": "https://s2-g1.glbimg.com/H_Koxe-BJ7dqkQ9gMNvf3_fOtoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/S/hXTiIwRdOihHjwdCcwoQ/design-sem-nome-73-.png",
-   "data": "2026-11-15T06:00:00+00:00"
-  },
-  {
-   "fonte": "g1 · Campinas",
-   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/15/igreja-recebe-fios-de-cabelo-de-carlo-acutis-apos-sonho-de-missionario-inspirar-grupo-de-devocao-no-interior-de-sp.ghtml",
-   "titulo": "Igreja recebe fios de cabelo de Carlo Acutis após sonho de missionário inspirar grupo de devoção no interior de SP",
-   "resumo": "Uma igreja na zona rural de Socorro, interior de São Paulo, recebeu uma relíquia composta por fios de cabelo de São Carlo Acutis. A chegada da peça sagrada resultou de um movimento iniciado pelo missionário Afonso Souza, que após um sonho fundou o grupo de devoção \"Geração Carlo Acutis\". A aproximação com um padre que residiu com o jovem canonizado possibilitou a obtenção da relíquia para a comunidade local, consolidando anos de dedicação em difundir os ensinamentos e a trajetória do santo italiano.",
-   "imagem": "https://s2-g1.glbimg.com/nqjCkCuAWqM0IU42ES7bDo5vLmg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/B/z6HsSHTnOg3NiAgZlbyg/design-sem-nome-17-.png",
-   "data": "2026-11-15T05:00:00+00:00"
   }
  ],
  "bloqueados": [
-  "https://g1.globo.com/pop-arte/games/noticia/2026/11/19/gta-vi-tem-previsao-de-faturar-r-115-bilhoes-no-primeiro-dia.ghtml",
-  "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/11/19/maria-gadu-festivais-de-hip-hop-e-hariel-veja-o-que-fazer-em-campinas-e-regiao.ghtml",
-  "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml",
-  "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml",
-  "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/11/previsao-tempo-parana-tempestade.ghtml",
   "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/20/manaus-inicia-programacao-natalina-neste-domingo-com-parada-natalina-e-chegada-do-papai-noel-na-ponta-negra.ghtml",
-  "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml",
+  "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/11/19/maria-gadu-festivais-de-hip-hop-e-hariel-veja-o-que-fazer-em-campinas-e-regiao.ghtml",
+  "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml",
+  "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/consciencia-negra-espetaculo-no-rio-da-vida-personagens-que-marcaram-a-historia-do-brasil.ghtml",
   "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/19/festival-da-resistencia-reune-musica-poesia-e-exposicoes-no-dia-da-consciencia-negra-em-campos.ghtml",
-  "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/consciencia-negra-espetaculo-no-rio-da-vida-personagens-que-marcaram-a-historia-do-brasil.ghtml"
+  "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml",
+  "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml",
+  "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/11/previsao-tempo-parana-tempestade.ghtml",
+  "https://g1.globo.com/pop-arte/games/noticia/2026/11/19/gta-vi-tem-previsao-de-faturar-r-115-bilhoes-no-primeiro-dia.ghtml"
  ]
 }
