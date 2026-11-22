@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T16:57:44.802167+00:00",
+ "atualizado_em": "2026-11-22T01:17:43.746942+00:00",
  "fontes": [
   "g1 · Geral",
   "g1 · Campinas",
@@ -15,6 +15,38 @@
   "r/PathOfExile2"
  ],
  "itens": [
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/black-friday-e-natal-devem-movimentar-r-9-bilhoes-no-comercio-de-campinas-e-regiao.ghtml",
+   "titulo": "Black Friday e Natal devem movimentar R$ 9 bilhões no comércio de Campinas e região",
+   "resumo": "A Black Friday e o Natal devem movimentar cerca de R$ 9,04 bilhões no comércio de Campinas e região neste fim de ano, segundo projeção divulgada pela Associação Comercial e Industrial de Campinas (ACIC). O levantamento prevê R$ 1,38 bilhão em vendas na Black Friday, um crescimento de 7,5%, e R$ 7,66 bilhões no Natal, com alta de 5%. Especialistas apontam que o apelo das datas comemorativas e a injeção do 13º salário impulsionam as compras, enquanto lojas já iniciam ofertas antecipadas.",
+   "imagem": "https://s2-g1.glbimg.com/cBXJGs5KKe9ZJrJv4h_SOFK3O5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/1/JJjx0oSoW0UOA3BtoOxA/design-sem-nome-60-.jpg",
+   "data": "2026-11-21T23:47:43+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/21/mulher-e-flagrada-tentando-entrar-com-drogas-escondidas-na-regiao-intima-em-presidio-de-joao-pessoa.ghtml",
+   "titulo": "Mulher é flagrada tentando entrar com drogas na região íntima em presídio de João Pessoa",
+   "resumo": "Uma mulher foi flagrada tentando entrar com drogas escondidas na região íntima na Penitenciária Desembargador Sílvio Porto, em João Pessoa, na última sexta-feira (20). A apreensão ocorreu durante a fiscalização da visita social com a utilização de um scanner corporal. De acordo com a Polícia Penal da Paraíba, o pacote continha porções de cocaína revestidas com maconha em formato cilíndrico. A visitante e os entorpecentes foram encaminhados para a adoção das medidas legais cabíveis.",
+   "imagem": "https://s2-g1.glbimg.com/w_x7CIDz8P5j9bZIGNqzF4X7prY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/n/gCPscQR8ADpYMdlprmgA/copia-de-bgs-g1-pb-e-jp.png",
+   "data": "2026-11-21T23:39:52+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/21/mulher-e-morta-a-facada-apos-briga-em-via-publica-de-calcoene.ghtml",
+   "titulo": "Vídeo: Mulher é morta a facada após briga em via pública de Calçoene",
+   "resumo": "Uma mulher morreu após ser esfaqueada durante uma briga em via pública no distrito de Lourenço, localizado no município de Calçoene, Amapá. O confronto ocorreu nas proximidades de um bar e foi registrado por câmeras de segurança. A Polícia Militar foi chamada por denúncia anônima e verificou em uma unidade de saúde local que a vítima já havia chegado sem vida. A suspeita do crime fugiu e ainda não foi localizada. A Polícia Civil e a Polícia Científica investigam e periciam o caso.",
+   "imagem": "https://s2-g1.glbimg.com/kzffij5QVS4zJYcR5iHTB5IfC7w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/H/dqi8rJRQqsWK97CeRXuw/whatsapp-image-2026-07-06-at-18.15.44.jpeg",
+   "data": "2026-11-21T23:36:33+00:00"
+  },
+  {
+   "fonte": "g1 · Campinas",
+   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/video-carro-atinge-motociclista-que-bate-em-poste-em-mogi-guacu.ghtml",
+   "titulo": "VÍDEO: carro atinge motociclista, que bate em poste em Mogi Guaçu",
+   "resumo": "Um motociclista ficou ferido na noite de sexta-feira (20) após ser atingido por um automóvel na Avenida Bandeirantes, em Mogi Guaçu, interior de São Paulo. De acordo com imagens de câmeras de segurança, o motorista do veículo realizou uma conversão irregular à esquerda e colidiu contra a motocicleta. Com o impacto da colisão, a vítima acabou batendo contra um poste. Órgãos como a Polícia Militar, a Guarda Municipal e o Corpo de Bombeiros afirmaram que não foram acionados para a ocorrência.",
+   "imagem": "https://s2-g1.glbimg.com/PsdH9WgKbZVPkqG_hdHlyILbSxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/N/VjIX5nRSeNzpHT57WkTw/design-sem-nome-59-.jpg",
+   "data": "2026-11-21T22:45:46+00:00"
+  },
   {
    "fonte": "g1 · Geral",
    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/novembro-azul-novo-protocolo-muda-orientacao-para-diagnostico-precoce-do-cancer-de-prostata.ghtml",
@@ -369,14 +401,14 @@
   }
  ],
  "bloqueados": [
-  "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/20/manaus-inicia-programacao-natalina-neste-domingo-com-parada-natalina-e-chegada-do-papai-noel-na-ponta-negra.ghtml",
-  "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml",
-  "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/consciencia-negra-espetaculo-no-rio-da-vida-personagens-que-marcaram-a-historia-do-brasil.ghtml",
-  "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml",
-  "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/11/previsao-tempo-parana-tempestade.ghtml",
+  "https://g1.globo.com/pop-arte/games/noticia/2026/11/19/gta-vi-tem-previsao-de-faturar-r-115-bilhoes-no-primeiro-dia.ghtml",
   "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/11/19/maria-gadu-festivais-de-hip-hop-e-hariel-veja-o-que-fazer-em-campinas-e-regiao.ghtml",
   "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml",
+  "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml",
+  "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/11/previsao-tempo-parana-tempestade.ghtml",
+  "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/20/manaus-inicia-programacao-natalina-neste-domingo-com-parada-natalina-e-chegada-do-papai-noel-na-ponta-negra.ghtml",
+  "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml",
   "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/19/festival-da-resistencia-reune-musica-poesia-e-exposicoes-no-dia-da-consciencia-negra-em-campos.ghtml",
-  "https://g1.globo.com/pop-arte/games/noticia/2026/11/19/gta-vi-tem-previsao-de-faturar-r-115-bilhoes-no-primeiro-dia.ghtml"
+  "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/consciencia-negra-espetaculo-no-rio-da-vida-personagens-que-marcaram-a-historia-do-brasil.ghtml"
  ]
 }
