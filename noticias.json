@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T19:10:30.674225+00:00",
+ "atualizado_em": "2026-11-26T03:40:02.404549+00:00",
  "fontes": [
   "g1 · Geral",
   "g1 · Campinas",
@@ -15,6 +15,38 @@
   "r/PathOfExile2"
  ],
  "itens": [
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/26/leo-tomassini-convida-a-escuta-de-valsa-com-guinga-enquanto-aguarda-a-edicao-do-album-jaula-de-gorila-em-2027.ghtml",
+   "titulo": "Leo Tomassini convida à escuta de valsa com Guinga enquanto aguarda a edição do álbum 'Jaula de gorila' em 2027",
+   "resumo": "O cantor e compositor Leo Tomassini lança em 1º de dezembro o single 'Claro da lua', uma valsa lírica composta por ele e interpretada em dueto com Guinga, com violão e produção de Jean Charnaux. Revelado como vocalista da banda Família Roitman nos anos 1990 e em trajetória solo desde 2003, Tomassini celebra a colaboração com o consagrado músico, a quem teceu diversos elogios. A faixa antecede a chegada de seu terceiro álbum de estúdio, intitulado 'Jaula de gorila', cujo lançamento oficial está previsto para acontecer apenas em 2027.",
+   "imagem": "https://s2-g1.glbimg.com/P5pDIaroE37lseze8QfNNYgHiH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/z/qVVQlgTFKigHL7WuXYXA/leo-tomassini-claro-da-lua1-c-nandavogas.jpeg",
+   "data": "2026-11-26T03:01:00+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/26/voluntarios-resgate-socorro-gravatai-secretaria-saude-mp-recorre.ghtml",
+   "titulo": "Mais de 270 socorristas voluntários e cinco ambulâncias são impedidos de atuar após prefeitura apontar irregularidades no RS; MP recorre",
+   "resumo": "O Ministério Público do Rio Grande do Sul ajuizou duas ações civis públicas para garantir a continuidade dos serviços de atendimento pré-hospitalar prestados por grupos voluntários em Gravataí. A medida responde à decisão da prefeitura local que suspendeu as atividades de duas organizações — Anjos do Asfalto e Corpo Voluntário de Socorro e Resgate —, alegando falta de regulação médica e inconformidades técnicas. Com a restrição, cerca de 270 voluntários e cinco ambulâncias ficaram impedidos de operar nas estradas.",
+   "imagem": "https://s2-g1.glbimg.com/48b-1cLD914MMOr0JwgE9iLHc54=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/B/hgKzHjSBmZz3fhbPWJtA/g1-98-.jpg",
+   "data": "2026-11-26T03:00:01+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/26/limite-do-cartao-de-quem-usa-o-credito-rotativo-com-frequencia-sera-reduzido-entenda-a-mudanca.ghtml",
+   "titulo": "Limite do cartão de quem usa o crédito rotativo com frequência será reduzido; entenda a mudança",
+   "resumo": "O Conselho Monetário Nacional aprovou uma nova regra que determinará a redução gradativa do limite do cartão para clientes que utilizarem com frequência o crédito rotativo. Válida a partir de julho de 2027, a restrição atingirá consumidores que financiarem o saldo pendente por meio dessa modalidade após deixarem de pagar integralmente três ou mais faturas em um intervalo de seis meses. Para que o limite seja restabelecido, o titular precisará quitar a dívida pendente ou pagar seis faturas consecutivas de forma integral.",
+   "imagem": "https://s2-g1.glbimg.com/IyST-LGewqhciKiJ1R4Jwe_rov0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/z/L/NP2J6eRUAfwOCJk1vGTA/divida.jpg",
+   "data": "2026-11-26T03:00:00+00:00"
+  },
+  {
+   "fonte": "g1 · Geral",
+   "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-pode-pagar-r-75-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+   "titulo": "Mega-Sena pode pagar R$ 75 milhões nesta quinta-feira; g1 transmite ao vivo",
+   "resumo": "O concurso 3.091 da Mega-Sena pode pagar um prêmio estimado em R$ 75 milhões nesta quinta-feira, após o sorteio anterior ter acumulado. As dezenas serão sorteadas a partir das 21h, em São Paulo, com transmissão ao vivo realizada pelos canais do portal g1. Os interessados em concorrer à bolada têm até as 20h para registrar seus jogos nas lotéricas credenciadas ou pelas plataformas digitais oficiais da Caixa Econômica Federal. A aposta mínima da modalidade custa R$ 6 e permite a escolha de seis números no volante.",
+   "imagem": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg",
+   "data": "2026-11-26T03:00:00+00:00"
+  },
   {
    "fonte": "g1 · Economia",
    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-confira-os-numeros-sorteados.ghtml",
@@ -209,17 +241,17 @@
   }
  ],
  "bloqueados": [
-  "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml",
-  "https://g1.globo.com/pop-arte/games/noticia/2026/11/19/gta-vi-tem-previsao-de-faturar-r-115-bilhoes-no-primeiro-dia.ghtml",
-  "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/11/19/maria-gadu-festivais-de-hip-hop-e-hariel-veja-o-que-fazer-em-campinas-e-regiao.ghtml",
-  "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml",
-  "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/19/festival-da-resistencia-reune-musica-poesia-e-exposicoes-no-dia-da-consciencia-negra-em-campos.ghtml",
-  "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml",
-  "https://g1.globo.com/fantastico/noticia/2026/11/24/ferias-para-jogar-e-15-horas-diante-da-tela-lancamento-de-gta-6-vira-evento-entre-gamers.ghtml",
-  "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/20/manaus-inicia-programacao-natalina-neste-domingo-com-parada-natalina-e-chegada-do-papai-noel-na-ponta-negra.ghtml",
-  "https://g1.globo.com/fantastico/noticia/2026/11/23/gta-especialistas-explicam-como-o-game-virou-fenomeno-mundial.ghtml",
   "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/24/adolescente-procurado-pela-justica-e-apreendido-em-barra-mansa.ghtml",
   "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/11/previsao-tempo-parana-tempestade.ghtml",
-  "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/consciencia-negra-espetaculo-no-rio-da-vida-personagens-que-marcaram-a-historia-do-brasil.ghtml"
+  "https://g1.globo.com/fantastico/noticia/2026/11/23/gta-especialistas-explicam-como-o-game-virou-fenomeno-mundial.ghtml",
+  "https://g1.globo.com/fantastico/noticia/2026/11/24/ferias-para-jogar-e-15-horas-diante-da-tela-lancamento-de-gta-6-vira-evento-entre-gamers.ghtml",
+  "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml",
+  "https://g1.globo.com/pop-arte/games/noticia/2026/11/19/gta-vi-tem-previsao-de-faturar-r-115-bilhoes-no-primeiro-dia.ghtml",
+  "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml",
+  "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/consciencia-negra-espetaculo-no-rio-da-vida-personagens-que-marcaram-a-historia-do-brasil.ghtml",
+  "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/11/19/maria-gadu-festivais-de-hip-hop-e-hariel-veja-o-que-fazer-em-campinas-e-regiao.ghtml",
+  "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/19/festival-da-resistencia-reune-musica-poesia-e-exposicoes-no-dia-da-consciencia-negra-em-campos.ghtml",
+  "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/20/manaus-inicia-programacao-natalina-neste-domingo-com-parada-natalina-e-chegada-do-papai-noel-na-ponta-negra.ghtml",
+  "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml"
  ]
 }
