@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T03:49:23.675222+00:00",
+ "atualizado_em": "2026-11-27T19:05:19.795582+00:00",
  "fontes": [
   "g1 · Geral",
   "g1 · Campinas",
@@ -15,6 +15,38 @@
   "r/PathOfExile2"
  ],
  "itens": [
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/27/golpes-no-whatsapp-veja-como-proteger-sua-conta-e-evitar-que-usem-seu-numero-video.ghtml",
+   "titulo": "Golpes no WhatsApp: veja como proteger sua conta e evitar que usem seu número; VÍDEO",
+   "resumo": "Criminosos usam diversas táticas para aplicar golpes no WhatsApp, como criar perfis falsos e solicitar dinheiro se passando por conhecidos. Para evitar fraudes, especialistas recomendam nunca compartilhar códigos enviados por SMS e manter ativada a verificação em duas etapas com PIN. Também é prudente restringir a visualização da foto do perfil aos contatos e silenciar chamadas desconhecidas. Em caso de invasão, tente recadastrar o número no aplicativo e avise contatos e bancos.",
+   "imagem": "https://s2-g1.glbimg.com/FGEpeHX6XDuh_Jv6GPfPuwBD2GA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/t/apKWnKQpyaiclAplcT2Q/grupozap.jpg",
+   "data": "2026-11-27T16:00:00+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/27/e-fake-video-de-baloes-de-dora-aventureira-e-agentes-do-ice-em-desfile-de-acao-de-gracas-de-nova-york-cena-foi-criada-com-ia.ghtml",
+   "titulo": "É #FAKE vídeo de balões de Dora Aventureira e agentes do ICE em desfile de Ação de Graças de Nova York; cena foi criada com IA",
+   "resumo": "Um vídeo que circula nas redes sociais mostrando supostos balões da personagem Dora Aventureira sendo perseguida por agentes de imigração dos Estados Unidos é falso. As imagens, associadas falsamente ao tradicional desfile de Ação de Graças da Macy's em Nova York, foram geradas integralmente por inteligência artificial. O conteúdo satirizava ações de deportação, mas não reflete nenhum acontecimento real do evento, que completa cem anos de história.",
+   "imagem": "https://s2-g1.glbimg.com/Z4ZnpzLXRYxfid-iDxLAT_pAWMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/3/MoqlotQ6OkgwnEUBGiYg/fake-baloes.jpg",
+   "data": "2026-11-27T14:26:20+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/27/hackers-invadem-plataforma-de-dados-da-forca-aerea-dos-eua-diz-agencia.ghtml",
+   "titulo": "Hackers invadem plataforma de dados da Força Aérea dos EUA, diz agência",
+   "resumo": "Hackers invadiram a plataforma Cloud One, principal sistema de armazenamento em nuvem da Força Aérea dos Estados Unidos, de acordo com fontes governamentais citadas pela agência Reuters. A violação, detectada durante uma atualização de rotina, causou instabilidades e pode ter colocado em risco informações sensíveis de tática, logística e pessoal. O governo norte-americano adota cautela e não revelou a autoria do ataque nem se dados sigilosos foram extraídos.",
+   "imagem": "https://s2-g1.glbimg.com/lUmSkBGAXNaDZJZX8viRqA4EApY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Z/I/zBnsf1QB6T9P95ViQRzw/ap24319753708791.jpg",
+   "data": "2026-11-27T11:36:21+00:00"
+  },
+  {
+   "fonte": "g1 · Tecnologia",
+   "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/27/reino-unido-tira-servicos-do-ar-apos-incidente-cibernetico-em-orgao-que-paga-aposentadorias.ghtml",
+   "titulo": "Reino Unido tira serviços do ar após 'incidente cibernético' em órgão que paga aposentadorias",
+   "resumo": "O Departamento de Trabalho e Pensões do Reino Unido retirou serviços do ar preventivamente após detectar um incidente cibernético em seus sistemas digitais. Responsável por pensões e benefícios sociais, a instituição garantiu que os pagamentos programados serão mantidos normalmente e que atua com centros de segurança para restabelecer os serviços. O episódio se soma a uma série de ataques digitais recentes contra entidades públicas e privadas internacionais.",
+   "imagem": "https://s2-g1.glbimg.com/JWPV92wInee6u8AEVzwaSzcjKFc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/C/pDrYrfQwuXsoF5KSqvwg/reino-unido.jpg",
+   "data": "2026-11-27T10:47:28+00:00"
+  },
   {
    "fonte": "g1 · Geral",
    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/26/leo-tomassini-convida-a-escuta-de-valsa-com-guinga-enquanto-aguarda-a-edicao-do-album-jaula-de-gorila-em-2027.ghtml",
@@ -190,68 +222,20 @@
    "resumo": "O TikTok lançou duas ferramentas para aumentar a transparência e combater deepfakes e manipulações por inteligência artificial. A primeira permite verificar publicamente se um vídeo ou imagem foi editado usando ferramentas de IA da própria plataforma, mesmo sem possuir conta no serviço. Já a segunda, denominada Likeness Detection, visa criadores de conteúdo e figuras públicas, possibilitando rastrear e denunciar o uso não autorizado de suas imagens em conteúdos sintéticos antes das eleições europeias.",
    "imagem": "https://s2-g1.glbimg.com/FUULwFt5nMKOeZd_CA1cJJjvkLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/4/awDZ8iRBOibmSDJYzvSA/ap26023052378716.jpg",
    "data": "2026-11-20T21:30:05+00:00"
-  },
-  {
-   "fonte": "g1 · Tecnologia",
-   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
-   "titulo": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
-   "resumo": "As ações da Nvidia acumulam queda superior a 30% em relação a outubro, caminhando para a sétima semana consecutiva de perdas, o pior desempenho da companhia desde 2008. O recuo foi catalisado por um escândalo de traição e suspeitas de espionagem que resultou na saída de Jensen Huang do comando da empresa, além de dúvidas do mercado sobre a sustentabilidade da demanda por IA. Com isso, a fabricante perdeu a liderança de mercado e caiu para o quarto lugar global, avaliada em US$ 3,7 trilhões.",
-   "imagem": "https://s2-g1.glbimg.com/i6hHWdNgJJrJkJrYgnYG_Ucb4Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/H5rl3AQ3ucdgHiYNEvEg/fotojet-7-.png",
-   "data": "2026-11-20T18:47:51+00:00"
-  },
-  {
-   "fonte": "g1 · Tecnologia",
-   "link": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-diz-que-nao-permitira-que-empresas-construam-data-centers-fora-dos-eua.ghtml",
-   "titulo": "Trump diz que não permitirá que empresas construam data centers fora dos EUA",
-   "resumo": "O presidente dos Estados Unidos, Donald Trump, declarou que o governo pretende proibir empresas norte-americanas de construir centros de dados fora do país. Segundo o presidente, companhias que optarem por erguer essas infraestruturas no exterior serão alvos de tributos extremamente elevados. A medida surge em meio à forte expansão da inteligência artificial, que depende intensamente da capacidade computacional fornecida por data centers para treinar e executar modelos complexos de ponta.",
-   "imagem": "https://s2-g1.glbimg.com/Vad02KxTwEUCVOTuoq4Ug61du1c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/yxYdKOS2mRfxIH3M4BFw/2026-11-20t180212z-1698863269-rc2uroayz9hc-rtrmadp-3-usa-trump.jpg",
-   "data": "2026-11-20T18:41:10+00:00"
-  },
-  {
-   "fonte": "g1 · Campinas",
-   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/20/justica-absolve-ex-chefe-da-dise-de-campinas-e-ex-policial-em-caso-de-extorsao-e-associacao-criminosa.ghtml",
-   "titulo": "Justiça absolve ex-chefe da Dise de Campinas e ex-policial em caso de extorsão e associação criminosa",
-   "resumo": "A 1ª Vara Criminal de Campinas absolveu por falta de provas o ex-chefe dos investigadores da Delegacia de Investigações Sobre Entorpecentes (Dise), Maurício Aparecido de Oliveira, e o ex-policial civil Itamar Gomes da Silva. Ambos haviam sido detidos na Operação Infiltrados, do Gaeco, sob acusação de extorsão e associação criminosa envolvendo investigados, incluindo integrantes de facção. Maurício também foi inocentado da acusação de violação de sigilo. O Ministério Público de São Paulo anunciou que irá recorrer da decisão judicial.",
-   "imagem": "https://s2-g1.glbimg.com/lKW50f3ULMPnIWIUPS-nIWiH5iY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/f/BJdJmCTJO2gqqADCtWBA/design-sem-nome-12-.png",
-   "data": "2026-11-20T18:30:09+00:00"
-  },
-  {
-   "fonte": "g1 · Campinas",
-   "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/20/unesp-2027-g1-tera-resolucao-comentada-ao-vivo-e-gabarito-oficial-neste-domingo.ghtml",
-   "titulo": "Unesp 2027: g1 terá resolução comentada ao vivo e gabarito oficial neste domingo",
-   "resumo": "O g1 São Carlos e Araraquara realiza neste domingo uma cobertura especial da primeira fase do vestibular da Unesp, reunindo mais de 65 mil inscritos. A partir das 20h, logo após o término da avaliação, o portal transmitirá ao vivo a resolução comentada das principais questões com o apoio de professores do colégio Oficina do Estudante, além de divulgar o gabarito oficial da prova. A iniciativa integra o projeto Vestibulou, que acompanha os estudantes e cobre presencialmente a movimentação nos locais de exame ao longo de todo o dia.",
-   "imagem": "https://s2-g1.glbimg.com/Y1DTYdsi0oVDB-Duyy7MLNWxSDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Z/1/gdtfR8SheqGAVkSTTWTg/vestibular-unicamp-2024-puc-1-pedro-amatuzzi-fotografia-2-.jpg",
-   "data": "2026-11-20T18:25:47+00:00"
-  },
-  {
-   "fonte": "g1 · Campinas",
-   "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/20/carros-batem-de-frente-e-mobilizam-bombeiros-em-marginal-da-santos-dumont-em-campinas.ghtml",
-   "titulo": "Carros batem de frente e mobilizam bombeiros em marginal da Santos Dumont em Campinas",
-   "resumo": "Uma colisão frontal entre dois veículos mobilizou o Corpo de Bombeiros na manhã desta sexta-feira na marginal da Rodovia Santos Dumont, em Campinas. Um dos automóveis sofreu um princípio de incêndio, que foi controlado pelos militares, enquanto uma vítima presa às ferragens precisou ser resgatada e conduzida para atendimento pelo Samu; testemunhas afirmam que se tratava de uma criança de 12 anos. As causas da colisão ainda não foram divulgadas oficialmente pelas autoridades que atenderam a ocorrência no local.",
-   "imagem": "https://s2-g1.glbimg.com/8TWX0GxFAw-d6uRUHGFkuIDacL8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/o/9iNHhtSAWHPFLNzxLACA/colisao-frontal-cps.png",
-   "data": "2026-11-20T15:38:08+00:00"
-  },
-  {
-   "fonte": "g1 · Campinas",
-   "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/11/20/carro-capota-na-avenida-heitor-penteado-em-campinas-e-deixa-homem-de-60-anos-ferido.ghtml",
-   "titulo": "Carro capota na Avenida Heitor Penteado, em Campinas, e deixa homem de 60 anos ferido",
-   "resumo": "Um motorista de 60 anos ficou ferido após capotar um Fiat Uno na manhã desta sexta-feira na Avenida Heitor Penteado, nas proximidades do portão 6 da Lagoa do Taquaral, em Campinas. De acordo com a Emdec, o condutor perdeu o controle do veículo, colidiu com a guia do canteiro divisor e acabou tombando na pista interna. Apesar do impacto, o homem permaneceu consciente, apresentando queixas de dor no peito e sangramento, sendo prontamente assistido pelo Samu. O tráfego de veículos na região não chegou a ser interrompido.",
-   "imagem": "https://s2-g1.glbimg.com/ieuKyvpN7Nm6ONBVfGHl_zcU1s0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/z/3MNNNFRZKCBTJdwOTh5g/acidente-lagoa-vale.jpg",
-   "data": "2026-11-20T14:17:16+00:00"
   }
  ],
  "bloqueados": [
-  "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/11/previsao-tempo-parana-tempestade.ghtml",
-  "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/20/manaus-inicia-programacao-natalina-neste-domingo-com-parada-natalina-e-chegada-do-papai-noel-na-ponta-negra.ghtml",
-  "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml",
-  "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/11/19/maria-gadu-festivais-de-hip-hop-e-hariel-veja-o-que-fazer-em-campinas-e-regiao.ghtml",
-  "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml",
-  "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/consciencia-negra-espetaculo-no-rio-da-vida-personagens-que-marcaram-a-historia-do-brasil.ghtml",
-  "https://g1.globo.com/fantastico/noticia/2026/11/23/gta-especialistas-explicam-como-o-game-virou-fenomeno-mundial.ghtml",
   "https://g1.globo.com/pop-arte/games/noticia/2026/11/19/gta-vi-tem-previsao-de-faturar-r-115-bilhoes-no-primeiro-dia.ghtml",
-  "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/24/adolescente-procurado-pela-justica-e-apreendido-em-barra-mansa.ghtml",
+  "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/20/manaus-inicia-programacao-natalina-neste-domingo-com-parada-natalina-e-chegada-do-papai-noel-na-ponta-negra.ghtml",
+  "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/11/previsao-tempo-parana-tempestade.ghtml",
+  "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/11/19/maria-gadu-festivais-de-hip-hop-e-hariel-veja-o-que-fazer-em-campinas-e-regiao.ghtml",
+  "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/consciencia-negra-espetaculo-no-rio-da-vida-personagens-que-marcaram-a-historia-do-brasil.ghtml",
   "https://g1.globo.com/fantastico/noticia/2026/11/24/ferias-para-jogar-e-15-horas-diante-da-tela-lancamento-de-gta-6-vira-evento-entre-gamers.ghtml",
+  "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml",
+  "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml",
   "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/19/festival-da-resistencia-reune-musica-poesia-e-exposicoes-no-dia-da-consciencia-negra-em-campos.ghtml",
-  "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml"
+  "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml",
+  "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/24/adolescente-procurado-pela-justica-e-apreendido-em-barra-mansa.ghtml",
+  "https://g1.globo.com/fantastico/noticia/2026/11/23/gta-especialistas-explicam-como-o-game-virou-fenomeno-mundial.ghtml"
  ]
 }
