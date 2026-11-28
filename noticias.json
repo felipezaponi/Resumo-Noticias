@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-28T03:24:50.291954+00:00",
+ "atualizado_em": "2026-11-28T17:37:48.486784+00:00",
  "fontes": [
   "g1 · Geral",
   "g1 · Campinas",
@@ -142,44 +142,21 @@
    "resumo": "Um motociclista ficou ferido na noite de sexta-feira (20) após ser atingido por um automóvel na Avenida Bandeirantes, em Mogi Guaçu, interior de São Paulo. De acordo com imagens de câmeras de segurança, o motorista do veículo realizou uma conversão irregular à esquerda e colidiu contra a motocicleta. Com o impacto da colisão, a vítima acabou batendo contra um poste. Órgãos como a Polícia Militar, a Guarda Municipal e o Corpo de Bombeiros afirmaram que não foram acionados para a ocorrência.",
    "imagem": "https://s2-g1.glbimg.com/PsdH9WgKbZVPkqG_hdHlyILbSxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/N/VjIX5nRSeNzpHT57WkTw/design-sem-nome-59-.jpg",
    "data": "2026-11-21T22:45:46+00:00"
-  },
-  {
-   "fonte": "g1 · Tecnologia",
-   "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/21/ataques-ciberneticos-ia-ou-atualizacoes-pendentes-o-que-ha-por-tras-da-onda-de-apagoes-dos-ultimos-dias.ghtml",
-   "titulo": "Ataques cibernéticos, IA ou atualizações pendentes: o que há por trás da onda de apagões dos últimos dias",
-   "resumo": "Uma recente sequência de apagões e falhas técnicas em grandes sistemas reacendeu debates sobre a fragilidade da infraestrutura digital global. Incidentes afetaram serviços da Microsoft, provocaram a paralisação temporária de voos nos Estados Unidos e causaram instabilidades em plataformas da Apple, bancos e na Agência de Segurança Nacional americana. Apesar de ocorrerem em datas próximas, especialistas apontam que se tratam de eventos isolados decorrentes de erros de atualização de sistemas legados.",
-   "imagem": "https://s2-g1.glbimg.com/Ion0o4Kfe9jsDhm54MjKkDyj-Rc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/f/f41JPyQpOXjoIoAyGsGw/9fac61c0-e405-11f1-877f-2bb5452e5ffc.jpg-1-.png",
-   "data": "2026-11-21T10:27:04+00:00"
-  },
-  {
-   "fonte": "g1 · Tecnologia",
-   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/21/dos-algoritmos-ao-aroma-como-a-ia-esta-mudando-a-criacao-de-perfumes.ghtml",
-   "titulo": "Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
-   "resumo": "A indústria da perfumaria tradicional começou a incorporar ferramentas de inteligência artificial no desenvolvimento de novas fragrâncias. Empresas como a Estée Lauder já utilizam algoritmos em laboratórios em Paris para agilizar a criação de formulações inovadoras e resolver desafios químicos complexos, como combinar texturas densas e leves. Além de identificar propriedades ideais de óleos aromáticos em menos tempo, a tecnologia ajuda a checar regras e conformidades regulatórias internacionais.",
-   "imagem": "https://s2-g1.glbimg.com/UVzY24oQ8zf00UuvY6HYCIyOgbY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/Q/XdIqgPQXSSPdEA8Iwa5Q/pexels-ron-lach-8625562.jpg",
-   "data": "2026-11-21T06:00:01+00:00"
-  },
-  {
-   "fonte": "g1 · Tecnologia",
-   "link": "https://g1.globo.com/inovacao/noticia/2026/11/21/saida-de-jensen-huang-da-nvidia-pode-frear-a-onda-da-ia.ghtml",
-   "titulo": "Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
-   "resumo": "Jensen Huang renunciou ao cargo de diretor-executivo da Nvidia após revelações de escândalos pessoais, gerando incertezas sobre o futuro da companhia e provocando perdas expressivas em seu valor de mercado. Considerada uma peça-chave na ascensão global da inteligência artificial, a fabricante de semicondutores passou da produção de chips gráficos para liderar a infraestrutura de centros de dados modernos. A saída do cofundador levanta dúvidas sobre possíveis impactos no ritmo de inovação do setor.",
-   "imagem": "https://s2-g1.glbimg.com/i6hHWdNgJJrJkJrYgnYG_Ucb4Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/H5rl3AQ3ucdgHiYNEvEg/fotojet-7-.png",
-   "data": "2026-11-21T06:00:00+00:00"
   }
  ],
  "bloqueados": [
-  "https://g1.globo.com/pop-arte/games/noticia/2026/11/19/gta-vi-tem-previsao-de-faturar-r-115-bilhoes-no-primeiro-dia.ghtml",
+  "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/11/previsao-tempo-parana-tempestade.ghtml",
+  "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml",
+  "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/11/19/maria-gadu-festivais-de-hip-hop-e-hariel-veja-o-que-fazer-em-campinas-e-regiao.ghtml",
   "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/19/festival-da-resistencia-reune-musica-poesia-e-exposicoes-no-dia-da-consciencia-negra-em-campos.ghtml",
   "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/24/adolescente-procurado-pela-justica-e-apreendido-em-barra-mansa.ghtml",
+  "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/consciencia-negra-espetaculo-no-rio-da-vida-personagens-que-marcaram-a-historia-do-brasil.ghtml",
   "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/20/manaus-inicia-programacao-natalina-neste-domingo-com-parada-natalina-e-chegada-do-papai-noel-na-ponta-negra.ghtml",
-  "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml",
+  "https://g1.globo.com/pop-arte/games/noticia/2026/11/19/gta-vi-tem-previsao-de-faturar-r-115-bilhoes-no-primeiro-dia.ghtml",
   "https://g1.globo.com/fantastico/noticia/2026/11/24/ferias-para-jogar-e-15-horas-diante-da-tela-lancamento-de-gta-6-vira-evento-entre-gamers.ghtml",
-  "https://g1.globo.com/fantastico/noticia/2026/11/23/gta-especialistas-explicam-como-o-game-virou-fenomeno-mundial.ghtml",
-  "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml",
-  "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/11/previsao-tempo-parana-tempestade.ghtml",
-  "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/11/19/maria-gadu-festivais-de-hip-hop-e-hariel-veja-o-que-fazer-em-campinas-e-regiao.ghtml",
   "https://g1.globo.com/carros/noticia/2026/11/07/formula-1-veja-5-tecnologias-que-nasceram-nas-pistas-e-hoje-estao-ate-em-carros-populares.ghtml",
-  "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/consciencia-negra-espetaculo-no-rio-da-vida-personagens-que-marcaram-a-historia-do-brasil.ghtml"
+  "https://g1.globo.com/fantastico/noticia/2026/11/08/ele-e-muito-covarde-idosa-de-81-anos-agredida-por-lutador-em-predio-no-rio-relata-momentos-de-terror.ghtml",
+  "https://g1.globo.com/fantastico/noticia/2026/11/23/gta-especialistas-explicam-como-o-game-virou-fenomeno-mundial.ghtml",
+  "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/28/brasileiro-formado-na-unicamp-comemora-participacao-em-gta-6-realizei-um-sonho.ghtml"
  ]
 }
